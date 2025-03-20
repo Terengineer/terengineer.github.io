@@ -1,5 +1,4 @@
 *{
-    font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -65,6 +64,7 @@ header{
     align-items: center;
 }
 .text a{
+    font-family: 'TF2 Build';
     text-decoration: none;
     color: rgb(0, 255, 234);
     list-style: none;
@@ -138,6 +138,7 @@ header{
     overflow: hidden;
 }
 .active h2{
+    font-family: 'ROG Fonts v1.6';
     color: rgb(0, 255, 234);
     text-shadow: 0 0 5px rgb(0, 255, 234);
     line-height: 1.4;
@@ -147,6 +148,7 @@ header{
     letter-spacing: 6px;
 }
 .active p{
+    font-family: 'TF2 Build';
     color: rgb(0, 255, 234);
     text-shadow: 0 0 5px rgb(0, 255, 234);
     line-height: 1.4;
@@ -155,6 +157,7 @@ header{
     text-transform: uppercase;
 }
 .active a{
+    font-family: 'TF2 Build';
     text-decoration: none;
     color: white;
     list-style: none;
@@ -234,6 +237,7 @@ header{
     box-shadow: 0 0 20px black;
 }
 .about{
+    font-family: 'TF2 Build';
     width: 90%;
     min-height: 100vh;
     color: rgb(0, 255, 234);
@@ -248,6 +252,7 @@ header{
     text-shadow: 0 0 5px rgb(0, 255, 234)
 }
 .about h1{
+    font-family: 'ROG Fonts v1.6';
     line-height: 1.4;
     margin: 15px 0;
     text-transform: uppercase;
@@ -255,6 +260,7 @@ header{
     letter-spacing: 6px;
 }
 .about p{
+    font-family: 'TF2 Build';
     line-height: 1.4;
     margin: 15px 0;
     letter-spacing: 3px;
@@ -272,6 +278,7 @@ header{
     align-items: center;
 }
 .about-text a{
+    font-family: 'TF2 Build';
     text-decoration: none;
     color: rgb(0, 255, 234);
     list-style: none;
@@ -336,6 +343,7 @@ header{
     cursor: pointer;
 }
 .about-hero-btn{
+    font-family: 'TF2 Build';
     display: inline-block;
     text-decoration: none;
     color: rgb(255, 255, 255);
@@ -369,6 +377,7 @@ header{
     box-shadow: 0 0 20px black;
 }
 .rules{
+    font-family: 'TF2 Build';
     width: 90%;
     min-height: 100vh;
     color: rgb(0, 255, 234);
@@ -383,6 +392,7 @@ header{
     text-shadow: 0 0 5px rgb(0, 255, 234)
 }
 .rules h1{
+    font-family: 'ROG Fonts v1.6';
     line-height: 1.4;
     margin: 15px 0;
     text-transform: uppercase;
@@ -390,6 +400,7 @@ header{
     letter-spacing: 6px;
 }
 .rules p{
+    font-family: 'TF2 Build';
     line-height: 1.4;
     margin: 15px 0;
     letter-spacing: 3px;
@@ -407,6 +418,7 @@ header{
     align-items: center;
 }
 .rules-text a{
+    font-family: 'TF2 Build';
     text-decoration: none;
     color: rgb(0, 255, 234);
     list-style: none;
@@ -471,6 +483,7 @@ header{
     cursor: pointer;
 }
 .rules-hero-btn{
+    font-family: 'TF2 Build';
     display: inline-block;
     text-decoration: none;
     color: rgb(255, 255, 255);
@@ -592,35 +605,4 @@ header{
 }
 .equipment-img img{
     width: 175px;
-}
-.equipment-hero-btn3{
-    display: inline-block;
-}
-.equipment-hero-btn2{
-    color: rgb(0, 255, 234);
-    text-align: center;
-    text-decoration: none;
-    text-shadow: 0 0 5px rgb(0, 255, 234);
-    display: inline-flex;
-    position: relative;
-    cursor: pointer;
-}
-.equipment-hero-btn{
-    display: inline-block;
-    text-decoration: none;
-    color: rgb(255, 255, 255);
-    border: 1px solid teal;
-    padding: 8px 18px;
-    margin: 2px 3px;
-    font-size: 15px;
-    background: teal;
-    position: relative;
-    cursor: pointer;
-}
-.equipment-hero-btn img{
-    width: 25px;
-}
-.equipment-hero-btn:hover{
-    border: 1px solid rgb(0, 110, 255);
-    background: rgb(0, 110, 255);
 }
