@@ -3,7 +3,6 @@
     padding: 0;
     box-sizing: border-box;
     scroll-behavior: smooth;
-    src:url('tf2build.ttf'),('ROGFontsv1.6-Regular.ttf');
 }
 body{
     min-height: 100vh;
@@ -66,6 +65,7 @@ header{
 }
 .text a{
     font-family: 'TF2 Build', sans-serif;
+    src:url('tf2build.ttf');
     text-decoration: none;
     color: rgb(0, 255, 234);
     list-style: none;
@@ -140,6 +140,7 @@ header{
 }
 .active h2{
     font-family: 'ROG Fonts v1.6', sans-serif;
+    src:url('ROGFontsv1.6-Regular.ttf');
     color: rgb(0, 255, 234);
     text-shadow: 0 0 5px rgb(0, 255, 234);
     line-height: 1.4;
@@ -150,6 +151,7 @@ header{
 }
 .active p{
     font-family: 'TF2 Build', sans-serif;
+    src:url('tf2build.ttf');
     color: rgb(0, 255, 234);
     text-shadow: 0 0 5px rgb(0, 255, 234);
     line-height: 1.4;
@@ -159,6 +161,7 @@ header{
 }
 .active a{
     font-family: 'TF2 Build', sans-serif;
+    src:url('tf2build.ttf');
     text-decoration: none;
     color: white;
     list-style: none;
