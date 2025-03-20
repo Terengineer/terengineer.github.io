@@ -1,3 +1,7 @@
+@font-face {
+    font-family: 'TF2 Build', 'ROG Fonts V1.6';
+    src: url('tf2build.ttf'),('ROGFontsv1.6-Regular.ttf');
+}
 *{
     margin: 0;
     padding: 0;
