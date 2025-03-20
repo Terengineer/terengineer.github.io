@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     scroll-behavior: smooth;
+    src:url('TF2 Build.ttf'),('ROG Fonts v1.6.ttf');
 }
 body{
     min-height: 100vh;
