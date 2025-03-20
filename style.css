@@ -408,7 +408,7 @@ header{
     letter-spacing: 6px;
 }
 .rules p{
-    font-family: 'TF2 Build', sans-serif;
+    font-family: 'text';
     line-height: 1.4;
     margin: 15px 0;
     letter-spacing: 3px;
@@ -426,7 +426,7 @@ header{
     align-items: center;
 }
 .rules-text a{
-    font-family: 'Heading';
+    font-family: 'text';
     text-decoration: none;
     color: rgb(0, 255, 234);
     list-style: none;
