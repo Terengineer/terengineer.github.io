@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'text';
-    src: url(tf2build.ttf);
+    src: url(Fonts/tf2build.ttf);
 }
 @font-face {
     font-family: 'Heading';
-    src: url(ROGFontsv1.6-Regular.ttf);
+    src: url(Fonts/ROGFontsv1.6-Regular.ttf);
 }
 *{
     margin: 0;
@@ -15,6 +15,12 @@
 body{
     min-height: 100vh;
     background: linear-gradient(110deg, hsl(219, 48%, 32%), hsl(219, 48%, 32%));
+}
+img{
+    width: 250px;
+}
+img img{
+    width: 175px;
 }
 .big-container{
     width: 99%;
@@ -539,13 +545,22 @@ header{
     text-shadow: 0 0 5px rgb(0, 255, 234)
 }
 .equipment h1{
+    font-family: 'Heading';
     line-height: 1.4;
     margin: 15px 0;
     text-transform: uppercase;
     font-size: 3em;
     letter-spacing: 6px;
 }
+.equipment h2{
+        font-family: 'Heading';
+        line-height: 1.4;
+        text-transform: uppercase;
+        font-size: 30px;
+        letter-spacing: 4px;
+}
 .equipment p{
+    font-family: 'text';
     line-height: 1.4;
     margin: 15px 0;
     letter-spacing: 3px;
@@ -563,6 +578,7 @@ header{
     align-items: center;
 }
 .equipment-text a{
+    font-family: 'text';
     text-decoration: none;
     color: rgb(0, 255, 234);
     list-style: none;
