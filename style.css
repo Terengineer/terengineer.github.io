@@ -46,7 +46,18 @@ img img{
     overflow: auto;
 }
 ::-webkit-scrollbar{
-    display: none;
+    width: 10px;
+}
+::-webkit-scrollbar-track{
+    border: 1px solid #00f7ff;
+    border-radius: 8px;
+}
+::-webkit-scrollbar-thumb{
+    background: #00f7ff;
+    border-radius: 8px;
+}
+::-webkit-scrollbar-hover{
+    background: #00f7ff;
 }
 video{
     position: absolute;
