@@ -182,7 +182,6 @@ header{
     text-transform: uppercase;
 }
 .active a{
-    font-family: 'text';
     text-decoration: none;
     color: white;
     list-style: none;
@@ -191,6 +190,15 @@ header{
     display: inline-block;
     text-shadow: 0 0 5px white;
     position: relative;
+}
+.active span{
+    font-family: 'text';
+    text-decoration: none;
+    color: white;
+    list-style: none;
+    text-transform: uppercase;
+    display: inline-block;
+    text-shadow: 0 0 5px white;
 }
 .hero-btn{
     display: inline-block;
