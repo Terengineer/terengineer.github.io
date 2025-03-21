@@ -5,6 +5,7 @@ const translations = {
         line2:"Rules(Official Launched)",
         line3:"Who is Terengineer?",
         line4:"Terengineer's Equipment(Set up)",
+        line5:"Selete a language:",
         welcome:"Welcome to ",
         shoutout:"Subscribe, Like👍, Follow, and Shout-out📢 Terengineer!",
         link1:"Donate!~",
@@ -27,6 +28,7 @@ const translations = {
         line2:"規則(正式啟動)",
         line3:"誰是阿祐先生?",
         line4:"阿祐先生的設備",
+        line5:"語言設定:",
         welcome:"歡迎來到",
         shoutout:"訂閱，按讚👍跟隨，和喊出📢阿祐先生!",
         link1:"斗內!~",
@@ -51,6 +53,7 @@ let line1 = document.getElementById("line1");
 let line2 = document.getElementById("line2");
 let line3 = document.getElementById("line3");
 let line4 = document.getElementById("line4");
+let line5 = document.getElementById("line5");
 let welcome = document.getElementById("welcome");
 let shoutout = document.getElementById("shoutout");
 let link1 = document.getElementById("link1");
@@ -78,6 +81,7 @@ const setLanugage = (language) => {
         line2.innerText = translations.zhcn.line2;
         line3.innerText = translations.zhcn.line3;
         line4.innerText = translations.zhcn.line4;
+        line5.innerText = translations.zhcn.line5;
         welcome.innerText = translations.zhcn.welcome;
         shoutout.innerText = translations.zhcn.shoutout;
         link1.innerText = translations.zhcn.link1;
@@ -100,6 +104,7 @@ const setLanugage = (language) => {
         line2.innerText = translations.en.line2;
         line3.innerText = translations.en.line3;
         line4.innerText = translations.en.line4;
+        line5.innerText = translations.en.line5;
         welcome.innerText = translations.en.welcome;
         shoutout.innerText = translations.en.shoutout;
         link1.innerText = translations.en.link1;
