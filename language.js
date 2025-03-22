@@ -199,7 +199,7 @@ const translations = {
         equp14:"麥克風: HyperX DuoCast USB Microphone",
         equp15:"攝影機: AVerMedia PW313",
         equp16:"擷取卡: AVerMedia GC311",
-        equh3:"💻 聊天室, 和支援不支援的電腦設備遊戲筆電:",
+        equh3:"💻 聊天室和支援不支援的電腦設備遊戲筆電:",
         equp17:"機殼: 2021 ASUS ROG Zephyrus G14",
         equp18:"主機板: ASUS ROG GA401QM",
         equp19:"記憶體: 16GB DDR4 on board + 16GB DDR4-3200 SO-DIMM(Max 32GB)",
