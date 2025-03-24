@@ -73,7 +73,7 @@ const translations = {
         abouttext1:"哈喽侄子姪女們、先生和女士們，是我。",
         abouttext2:"我是遊戲玩家、地震監視和直播主。",
         abouttext3:"我的國藉來自台灣(中華民國)。",
-        abouttext4:"但是我會精華影片、和短片，不幸的是在2018年，我生病就開始坐輪椅，我現在沒辦法走路，但是我不能放棄，所以希望您們喜歡，👍、跟隨、訂閱和喊出阿祐先生📢!",
+        abouttext4:"但是我會精華影片、和短片，不幸的是在2018年，我生病就開始坐輪椅，我現在沒辦法走路，但是我不能放棄，所以希望您們喜歡，請按讚👍、跟隨、訂閱和喊出阿祐先生📢!",
         abouttext5:"請確認我開啟的是官方網站、斗內、商品、Patreon、YT、FB、X(Twitter)、Tumblr、IG、Fandom wiki、Discord、Tiktok、Twitch、SoundCloud、Newgrounds和我的副頻道(不再上傳新影片)是正式正確的，其它是假的，感謝您!",
         official:"2024年6月16日，本規則已正式啟動!",
         visit:"訪問連結:",
