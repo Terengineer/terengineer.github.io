@@ -93,7 +93,7 @@ header{
     text-decoration: none;
     color: rgb(0, 255, 234);
     list-style: none;
-    padding: 2px 10px;
+    padding: 2px 2px;
     text-transform: uppercase;
     display: inline-block;
     text-shadow: 0 0 5px rgb(0, 255, 234);
@@ -121,7 +121,7 @@ header{
 .text{
     float: left;
     display: flex;
-    padding: 2% 6%;
+    padding: 2% 2%;
     justify-content: space-between;
     align-items: center;
     animation: fade 2s ease-in-out forwards;
