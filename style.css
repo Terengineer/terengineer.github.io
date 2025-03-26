@@ -346,7 +346,6 @@ header{
     padding: 2% 2%;
     justify-content: space-between;
     align-items: center;
-    opacity: 0;
 }
 .about-text ul{
     margin-right: 30px;
@@ -487,7 +486,6 @@ header{
     padding: 2% 2%;
     justify-content: space-between;
     align-items: center;
-    opacity: 0;
 }
 .rules-text ul{
     margin-right: 30px;
@@ -634,7 +632,6 @@ header{
     padding: 2% 2%;
     justify-content: space-between;
     align-items: center;
-    opacity: 0;
 }
 .equipment-text ul{
     margin-right: 30px;
