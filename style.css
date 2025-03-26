@@ -315,7 +315,7 @@ header{
     text-decoration: none;
     color: rgb(0, 255, 234);
     list-style: none;
-    padding: 2px 10px;
+    padding: 2px 2px;
     text-transform: uppercase;
     display: inline-block;
     text-shadow: 0 0 5px rgb(0, 255, 234);
@@ -343,9 +343,10 @@ header{
 .about-text{
     float: left;
     display: flex;
-    padding: 2% 6%;
+    padding: 2% 2%;
     justify-content: space-between;
     align-items: center;
+    opacity: 0;
 }
 .about-text ul{
     margin-right: 30px;
@@ -455,7 +456,7 @@ header{
     text-decoration: none;
     color: rgb(0, 255, 234);
     list-style: none;
-    padding: 2px 10px;
+    padding: 2px 2px;
     text-transform: uppercase;
     display: inline-block;
     text-shadow: 0 0 5px rgb(0, 255, 234);
@@ -483,9 +484,10 @@ header{
 .rules-text{
     float: left;
     display: flex;
-    padding: 2% 6%;
+    padding: 2% 2%;
     justify-content: space-between;
     align-items: center;
+    opacity: 0;
 }
 .rules-text ul{
     margin-right: 30px;
@@ -601,7 +603,7 @@ header{
     text-decoration: none;
     color: rgb(0, 255, 234);
     list-style: none;
-    padding: 2px 10px;
+    padding: 2px 2px;
     text-transform: uppercase;
     display: inline-block;
     text-shadow: 0 0 5px rgb(0, 255, 234);
@@ -629,9 +631,10 @@ header{
 .equipment-text{
     float: left;
     display: flex;
-    padding: 2% 6%;
+    padding: 2% 2%;
     justify-content: space-between;
     align-items: center;
+    opacity: 0;
 }
 .equipment-text ul{
     margin-right: 30px;
