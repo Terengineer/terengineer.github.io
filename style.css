@@ -22,6 +22,7 @@ img{
 img img{
     width: 175px;
 }
+/*Index*/
 .big-container{
     width: 99%;
     height: 98%;
@@ -255,7 +256,7 @@ header{
         padding: 5px 10px;
     }
 }
-/*----------- about me gape ----------*/
+/*About*/
 .about-big-container{
     width: 99%;
     height: 98%;
@@ -400,7 +401,7 @@ header{
     border: 1px solid rgb(0, 110, 255);
     background: rgb(0, 110, 255);
 }
-/*----------- rules gape ----------*/
+/*Riles*/
 .rules-big-container{
     width: 99%;
     height: 98%;
@@ -545,7 +546,7 @@ header{
     border: 1px solid rgb(0, 110, 255);
     background: rgb(0, 110, 255);
 }
-/*----------- equipment gape ----------*/
+/*Equipment*/
 .equipment-big-container{
     width: 99%;
     height: 98%;
