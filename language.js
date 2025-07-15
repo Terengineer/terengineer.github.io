@@ -195,7 +195,7 @@ const translations = {
         equp6:"M2 SSD 1 (系統/應用程式): Samsung 9100 PRO 1TB NVMe M.2 2280 PCIe 5",
         equp7:"M2 SSD 2 (遊戲 1): WD 黑標 SN7100 4TB Gen4 NVMe PCIe 4 SSD",
         equp8:"SSD (遊戲 2): 創見 4TB SSD230S 2.5 inch SATA III SSD",
-        equp9:"硬碟: 希捷 IronWolf Pro 16TB NAS Hard Drive",
+        equp9:"硬碟(資料/媒體): 希捷 IronWolf Pro 16TB NAS Hard Drive",
         equp10:"顯示卡: ASUS TUF Gaming NVIDIA GeForce RTX 3050 OC Edition 8GB GDDR6",
         equp11:"系統: Windows 11 專業版",
         equp12:"直播應用程式: OBS Studio",
