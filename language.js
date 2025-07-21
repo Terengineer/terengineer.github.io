@@ -149,7 +149,7 @@ const translations = {
         equp6:"M2 SSD 1 (OS/Program): Samsung 9100 PRO 1TB NVMe M.2 2280 PCIe 5",
         equp7:"M2 SSD 2 (Game 1): WD BLACK SN7100 4TB Gen4 NVMe PCIe 4 SSD",
         equp8:"SSD (Game 2): Transcend 4TB SSD230S 2.5 inch SATA III SSD",
-        equp9:"HDD (Data/ Media): Seagate IronWolf Pro 16TB NAS Hard Drive",
+        equp9:"HDD (Data/Media): Seagate IronWolf Pro 16TB NAS Hard Drive",
         equp10:"GPU: ASUS TUF Gaming NVIDIA GeForce RTX 5060Ti OC Edition 16GB GDDR7",
         equp11:"OS: Windows 11 Pro",
         equp12:"Live stream program: OBS Studio",
