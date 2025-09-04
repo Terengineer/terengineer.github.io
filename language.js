@@ -202,7 +202,7 @@ const translations = {
         equp12:"直播應用程式: OBS Studio",
         equp13:"鍵盤: ASUS TUF Gaming K7",
         equp14:"滑鼠: ASUS TUF Gaming M3",
-        equp15:"顯示器1（NIVIDIA 顯示卡）: 飛利浦 276EV8",
+        equp15:"顯示器1（NVIDIA 顯示卡）: 飛利浦 276EV8",
         equp16:"顯示器2（Intel 內顯）: 奇美 22VD",
         equp17:"耳機: 羅技 Astro A40 TR",
         equp18:"麥克風: HyperX DuoCast USB Microphone",
