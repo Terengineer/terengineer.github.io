@@ -155,29 +155,30 @@ const translations = {
         equp12:"Live stream program: OBS Studio",
         equp13:"Keyboard: ASUS TUF Gaming K7",
         equp14:"Mouse: ASUS TUF Gaming M3",
-        equp15:"Monitor: Chimei 22VD",
-        equp16:"Headset: Astro Gaming A40 TR",
-        equp17:"Microphone: HyperX DuoCast USB Microphone",
-        equp18:"Webcam: AVerMedia PW313",
-        equp19:"Capture Card: Corsair Elgato Game Capture 4K Pro",
+        equp15:"Monitor 1 (NVIDIA GPU): Philips 276EV8",
+        equp16:"Monitor 2 (Intel Graphics): Chimei 22VD",
+        equp17:"Headset: Astro Gaming A40 TR",
+        equp18:"Microphone: HyperX DuoCast USB Microphone",
+        equp19:"Webcam: AVerMedia PW313",
+        equp20:"Capture Card: Corsair Elgato Game Capture 4K Pro",
         equh3:"💻 Live chat, and Gaming Laptop:",
-        equp20:"Case: 2021 ASUS ROG Zephyrus G14",
-        equp21:"Motherboard: ASUS ROG GA401QM",
-        equp22:"RAM: 16GB DDR4 on board + 16GB DDR4-3200 SO-DIMM(Max 32GB)",
-        equp23:"Battery: 76WHrs, 4S1P, 4-cell Li-ion",
-        equp24:"Power Supply: ASUS ø6.0, 180W AC Adapter, Output: 20V DC, 9A, 180W, Input: 100~240V AC, 50/60Hz universal",
-        equp25:"Hard Drive: 1TB PCIe® 3.0 NVMe™ M.2 SSD",
-        equp26:"GPU: NVIDIA® GeForce RTX™ 3060 Laptop GPU With ROG Boost up to 1382MHz at 60W (80W with Dynamic Boost) 6GB GDDR6",
-        equp27:"OS: Windows 11 Home",
-        equp28:"Keyboard and Touchpad: Backlit Chiclet Keyboard Single Light, Touchpad",
-        equp29:"Mouse: ASUS ROG Strix Impact",
-        equp30:"Display(Monitor): 14-inch, WQHD (2560 x 1440) 16:9, IPS-level, Anti-glare display, DCI-P3: 100%, Refresh Rate: 120Hz, Adaptive-Sync, Pantone Validated, Optimus",
-        equp31:"Headset: Chaos Tuó Féi GHS-A04",
-        equp32:"Capture Card: AVerMedia GC311",
+        equp21:"Case: 2021 ASUS ROG Zephyrus G14",
+        equp22:"Motherboard: ASUS ROG GA401QM",
+        equp23:"RAM: 16GB DDR4 on board + 16GB DDR4-3200 SO-DIMM(Max 32GB)",
+        equp24:"Battery: 76WHrs, 4S1P, 4-cell Li-ion",
+        equp25:"Power Supply: ASUS ø6.0, 180W AC Adapter, Output: 20V DC, 9A, 180W, Input: 100~240V AC, 50/60Hz universal",
+        equp26:"Hard Drive: 1TB PCIe® 3.0 NVMe™ M.2 SSD",
+        equp27:"GPU: NVIDIA® GeForce RTX™ 3060 Laptop GPU With ROG Boost up to 1382MHz at 60W (80W with Dynamic Boost) 6GB GDDR6",
+        equp28:"OS: Windows 11 Home",
+        equp29:"Keyboard and Touchpad: Backlit Chiclet Keyboard Single Light, Touchpad",
+        equp30:"Mouse: ASUS ROG Strix Impact",
+        equp31:"Display(Monitor): 14-inch, WQHD (2560 x 1440) 16:9, IPS-level, Anti-glare display, DCI-P3: 100%, Refresh Rate: 120Hz, Adaptive-Sync, Pantone Validated, Optimus",
+        equp32:"Headset: Chaos Tuó Féi GHS-A04",
+        equp33:"Capture Card: AVerMedia GC311",
         equh4:"📱 Other Equipment(Set up):",
-        equp33:"Mobile 1: Lenovo Legion Phone Duel 2",
-        equp34:"Mobile 2: iPad Pro (10.5-inch)",
-        equp35:"Mobile 3: iPad Air Gen5th",
+        equp34:"Mobile 1: Lenovo Legion Phone Duel 2",
+        equp35:"Mobile 2: iPad Pro (10.5-inch)",
+        equp36:"Mobile 3: iPad Air Gen5th",
     },
     equzhcn:{
         line1:"主選單",
@@ -201,29 +202,30 @@ const translations = {
         equp12:"直播應用程式: OBS Studio",
         equp13:"鍵盤: ASUS TUF Gaming K7",
         equp14:"滑鼠: ASUS TUF Gaming M3",
-        equp15:"顯示器: Chimei 22VD",
-        equp16:"耳機: 羅技 Astro A40 TR",
-        equp17:"麥克風: HyperX DuoCast USB Microphone",
-        equp18:"攝影機: AVerMedia PW313",
-        equp19:"擷取卡: 海盜船 Elgato Game Capture 4K Pro",
+        equp15:"顯示器1（NIVIDIA 顯示卡）: 飛利浦 276EV8",
+        equp16:"顯示器2（Intel 內顯）: 奇美 22VD",
+        equp17:"耳機: 羅技 Astro A40 TR",
+        equp18:"麥克風: HyperX DuoCast USB Microphone",
+        equp19:"攝影機: AVerMedia PW313",
+        equp20:"擷取卡: 海盜船 Elgato Game Capture 4K Pro",
         equh3:"💻 聊天室和遊戲筆電:",
-        equp20:"機殼: 2021 ASUS ROG Zephyrus G14",
-        equp21:"主機板: ASUS ROG GA401QM",
-        equp22:"記憶體: 16GB DDR4 on board + 16GB DDR4-3200 SO-DIMM(Max 32GB)",
-        equp23:"電池: 76WHrs, 4S1P, 4-cell Li-ion",
-        equp24:"電源共應器: ASUS ø6.0, 180W AC Adapter, Output: 20V DC, 9A, 180W, Input: 100~240V AC, 50/60Hz universal",
-        equp25:"硬碟: 1TB PCIe® 3.0 NVMe™ M.2 SSD",
-        equp26:"顯示卡: NVIDIA® GeForce RTX™ 3060 Laptop GPU With ROG Boost up to 1382MHz at 60W (80W with Dynamic Boost) 6GB GDDR6",
-        equp27:"系統: Windows 11家用版",
-        equp28:"鍵盤和觸控盤: Backlit Chiclet Keyboard Single Light, Touchpad",
-        equp29:"滑鼠: ASUS ROG Strix Impact",
-        equp30:"顯示器: 14-inch, WQHD (2560 x 1440) 16:9, IPS-level, Anti-glare display, DCI-P3: 100%, Refresh Rate: 120Hz, Adaptive-Sync, Pantone Validated, Optimus",
-        equp31:"耳機: Chaos 橐蜚 GHS-A04",
-        equp32:"擷取卡: AVerMedia GC311",
+        equp21:"機殼: 2021 ASUS ROG Zephyrus G14",
+        equp22:"主機板: ASUS ROG GA401QM",
+        equp23:"記憶體: 16GB DDR4 on board + 16GB DDR4-3200 SO-DIMM(Max 32GB)",
+        equp24:"電池: 76WHrs, 4S1P, 4-cell Li-ion",
+        equp25:"電源共應器: ASUS ø6.0, 180W AC Adapter, Output: 20V DC, 9A, 180W, Input: 100~240V AC, 50/60Hz universal",
+        equp26:"硬碟: 1TB PCIe® 3.0 NVMe™ M.2 SSD",
+        equp27:"顯示卡: NVIDIA® GeForce RTX™ 3060 Laptop GPU With ROG Boost up to 1382MHz at 60W (80W with Dynamic Boost) 6GB GDDR6",
+        equp28:"系統: Windows 11家用版",
+        equp29:"鍵盤和觸控盤: Backlit Chiclet Keyboard Single Light, Touchpad",
+        equp30:"滑鼠: ASUS ROG Strix Impact",
+        equp31:"顯示器: 14-inch, WQHD (2560 x 1440) 16:9, IPS-level, Anti-glare display, DCI-P3: 100%, Refresh Rate: 120Hz, Adaptive-Sync, Pantone Validated, Optimus",
+        equp32:"耳機: Chaos 橐蜚 GHS-A04",
+        equp33:"擷取卡: AVerMedia GC311",
         equh4:"📱 其它設備:",
-        equp33:"行動裝置 1: Lenovo Legion Phone Duel 2",
-        equp34:"行動裝置 2: iPad Pro (10.5吋)",
-        equp35:"行動裝置 3: iPad Air 第五代",
+        equp34:"行動裝置 1: Lenovo Legion Phone Duel 2",
+        equp35:"行動裝置 2: iPad Pro (10.5吋)",
+        equp36:"行動裝置 3: iPad Air 第五代",
     }
 }
 const languageSelectop = document.querySelector("select");
@@ -296,8 +298,8 @@ let equp16 = document.getElementById("equp16");
 let equp17 = document.getElementById("equp17");
 let equp18 = document.getElementById("equp18");
 let equp19 = document.getElementById("equp19");
-let equh3 = document.getElementById("equh3");
 let equp20 = document.getElementById("equp20");
+let equh3 = document.getElementById("equh3");
 let equp21 = document.getElementById("equp21");
 let equp22 = document.getElementById("equp22");
 let equp23 = document.getElementById("equp23");
@@ -310,10 +312,11 @@ let equp29 = document.getElementById("equp29");
 let equp30 = document.getElementById("equp30");
 let equp31 = document.getElementById("equp31");
 let equp32 = document.getElementById("equp32");
-let equh4 = document.getElementById("equh4");
 let equp33 = document.getElementById("equp33");
+let equh4 = document.getElementById("equh4");
 let equp34 = document.getElementById("equp34");
 let equp35 = document.getElementById("equp35");
+let equp36 = document.getElementById("equp36");
 
 languageSelectop.addEventListener("change", (event) => {
     setLanugage(event.target.value)
@@ -481,8 +484,8 @@ const setLanugage = (language) => {
         equp17.innerText = translations.equzhcn.equp17;
         equp18.innerText = translations.equzhcn.equp18;
         equp19.innerText = translations.equzhcn.equp19;
-        equh3.innerText = translations.equzhcn.equh3;
         equp20.innerText = translations.equzhcn.equp20;
+        equh3.innerText = translations.equzhcn.equh3;
         equp21.innerText = translations.equzhcn.equp21;
         equp22.innerText = translations.equzhcn.equp22;
         equp23.innerText = translations.equzhcn.equp23;
@@ -495,10 +498,11 @@ const setLanugage = (language) => {
         equp30.innerText = translations.equzhcn.equp30;
         equp31.innerText = translations.equzhcn.equp31;
         equp32.innerText = translations.equzhcn.equp32;
-        equh4.innerText = translations.equzhcn.equh4;
         equp33.innerText = translations.equzhcn.equp33;
+        equh4.innerText = translations.equzhcn.equh4;
         equp34.innerText = translations.equzhcn.equp34;
         equp35.innerText = translations.equzhcn.equp35;
+        equp36.innerText = translations.equzhcn.equp36;
     }
     else if (language == "equen"){
         line1.innerText = translations.equen.line1;
@@ -527,8 +531,8 @@ const setLanugage = (language) => {
         equp17.innerText = translations.equen.equp17;
         equp18.innerText = translations.equen.equp18;
         equp19.innerText = translations.equen.equp19;
-        equh3.innerText = translations.equen.equh3;
         equp20.innerText = translations.equen.equp20;
+        equh3.innerText = translations.equen.equh3;
         equp21.innerText = translations.equen.equp21;
         equp22.innerText = translations.equen.equp22;
         equp23.innerText = translations.equen.equp23;
@@ -541,9 +545,10 @@ const setLanugage = (language) => {
         equp30.innerText = translations.equen.equp30;
         equp31.innerText = translations.equen.equp31;
         equp32.innerText = translations.equen.equp32;
-        equh4.innerText = translations.equen.equh4;
         equp33.innerText = translations.equen.equp33;
+        equh4.innerText = translations.equen.equh4;
         equp34.innerText = translations.equen.equp34;
         equp35.innerText = translations.equen.equp35;
+        equp36.innerText = translations.equen.equp36;
     }
 }
