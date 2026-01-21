@@ -5,7 +5,8 @@ const translations = {
         line2:"Rules(Official Launched)",
         line3:"Who is Terengineer?",
         line4:"Terengineer's Equipment(Set up)",
-        line5:"Select a language:",
+        line5:"Disclaimer Warning! (Coming soon)",
+        line6:"Select a language:",
         welcome:"Welcome to ",
         shoutout:"Subscribe, Like👍, Follow, and Shout-out📢 Terengineer!",
         link1:"Donate!~",
@@ -28,7 +29,8 @@ const translations = {
         line2:"規則(正式啟動)",
         line3:"誰是阿祐先生?",
         line4:"阿祐先生的設備",
-        line5:"選擇語言:",
+        line5:"免責聲明！(即將推出)",
+        line6:"選擇語言:",
         welcome:"歡迎來到",
         shoutout:"訂閱，按讚👍跟隨，和喊出📢阿祐先生!",
         link1:"斗內(英文版)!~",
@@ -52,7 +54,8 @@ const translations = {
         line2:"Rules(Official Launched)",
         line3:"Who is Terengineer?",
         line4:"Terengineer's Equipment(Set up)",
-        line5:"Select a language:",
+        line5:"Disclaimer Warning! (Coming soon)",
+        line6:"Select a language:",
         who:"Who is ",
         abouttext1:"Hello Niece, and Nephew, Ladies, and Gentlemen, it's me.",
         abouttext2:"I'm The Gaming, Earthquake Monitoring, and Live Streamer.",
@@ -68,7 +71,8 @@ const translations = {
         line2:"規則(正式啟動)",
         line3:"誰是阿祐先生?",
         line4:"阿祐先生的設備",
-        line5:"選擇語言:",
+        line5:"免責聲明！(即將推出)",
+        line6:"選擇語言:",
         who:"誰是",
         abouttext1:"哈喽侄子姪女們、先生和女士們，是我。",
         abouttext2:"我是遊戲玩家、地震監視和直播主。",
@@ -85,7 +89,8 @@ const translations = {
         line2:"Rules(Official Launched)",
         line3:"Who is Terengineer?",
         line4:"Terengineer's Equipment(Set up)",
-        line5:"Select a language:",
+        line5:"Disclaimer Warning! (Coming soon)",
+        line6:"Select a language:",
         ruleshead:"Rules(Official launched)",
         rulesb1:"Live Stream, Shorts(Include pinned comment), and Premiere Rules on YouTube in description",
         rulesb2:"Strictly prohibited🚫:",
@@ -111,7 +116,8 @@ const translations = {
         line2:"規則(正式啟動)",
         line3:"誰是阿祐先生?",
         line4:"阿祐先生的設備",
-        line5:"選擇語言:",
+        line5:"免責聲明！(即將推出)",
+        line6:"選擇語言:",
         ruleshead:"規則(正式啟動)",
         rulesb1:"直播、短片(包含置頂留言)和首播規則都在YT說明欄裡",
         rulesb2:"嚴禁🚫:",
@@ -138,7 +144,8 @@ const translations = {
         line2:"Rules(Official Launched)",
         line3:"Who is Terengineer?",
         line4:"Terengineer's Equipment(Set up)",
-        line5:"Select a language:",
+        line5:"Disclaimer Warning! (Coming soon)",
+        line6:"Select a language:",
         equh1:"My equipment(Set up)",
         equh2:"🖥 Live stream, and Gaming Desktop",
         equp1:"Case: ASUS TUF Gaming GT302 ARGB",
@@ -185,7 +192,8 @@ const translations = {
         line2:"規則(正式啟動)",
         line3:"誰是阿祐先生?",
         line4:"阿祐先生的設備",
-        line5:"選擇語言:",
+        line5:"免責聲明！(即將推出)",
+        line6:"選擇語言:",
         equh1:"我的設備",
         equh2:"🖥 直播和遊戲桌機",
         equp1:"機殼: ASUS TUF Gaming GT302 ARGB",
@@ -235,6 +243,7 @@ let line2 = document.getElementById("line2");
 let line3 = document.getElementById("line3");
 let line4 = document.getElementById("line4");
 let line5 = document.getElementById("line5");
+let line6 = document.getElementById("line6");
 /*Official Launched*/
 let official = document.getElementById("official");
 let visit = document.getElementById("visit");
@@ -330,6 +339,7 @@ const setLanugage = (language) => {
         line3.innerText = translations.zhcn.line3;
         line4.innerText = translations.zhcn.line4;
         line5.innerText = translations.zhcn.line5;
+        line6.innerText = translations.zhcn.line6;
         welcome.innerText = translations.zhcn.welcome;
         shoutout.innerText = translations.zhcn.shoutout;
         link1.innerText = translations.zhcn.link1;
@@ -353,6 +363,7 @@ const setLanugage = (language) => {
         line3.innerText = translations.en.line3;
         line4.innerText = translations.en.line4;
         line5.innerText = translations.en.line5;
+        line6.innerText = translations.en.line6;
         welcome.innerText = translations.en.welcome;
         shoutout.innerText = translations.en.shoutout;
         link1.innerText = translations.en.link1;
@@ -377,6 +388,7 @@ const setLanugage = (language) => {
         line3.innerText = translations.aboutzhcn.line3;
         line4.innerText = translations.aboutzhcn.line4;
         line5.innerText = translations.aboutzhcn.line5;
+        line6.innerText = translations.aboutzhcn.line6;
         who.innerText = translations.aboutzhcn.who;
         abouttext1.innerText = translations.aboutzhcn.abouttext1;
         abouttext2.innerText = translations.aboutzhcn.abouttext2;
@@ -393,6 +405,7 @@ const setLanugage = (language) => {
         line3.innerText = translations.abouten.line3;
         line4.innerText = translations.abouten.line4;
         line5.innerText = translations.abouten.line5;
+        line6.innerText = translations.abouten.line6;
         who.innerText = translations.abouten.who;
         abouttext1.innerText = translations.abouten.abouttext1;
         abouttext2.innerText = translations.abouten.abouttext2;
@@ -410,6 +423,7 @@ const setLanugage = (language) => {
         line3.innerText = translations.ruleszhcn.line3;
         line4.innerText = translations.ruleszhcn.line4;
         line5.innerText = translations.ruleszhcn.line5;
+        line6.innerText = translations.ruleszhcn.line6;
         ruleshead.innerText = translations.ruleszhcn.ruleshead;
         rulesb1.innerText = translations.ruleszhcn.rulesb1;
         rulesb2.innerText = translations.ruleszhcn.rulesb2;
@@ -436,6 +450,7 @@ const setLanugage = (language) => {
         line3.innerText = translations.rulesen.line3;
         line4.innerText = translations.rulesen.line4;
         line5.innerText = translations.rulesen.line5;
+        line6.innerText = translations.rulesen.line6;
         ruleshead.innerText = translations.rulesen.ruleshead;
         rulesb1.innerText = translations.rulesen.rulesb1;
         rulesb2.innerText = translations.rulesen.rulesb2;
@@ -463,6 +478,7 @@ const setLanugage = (language) => {
         line3.innerText = translations.equzhcn.line3;
         line4.innerText = translations.equzhcn.line4;
         line5.innerText = translations.equzhcn.line5;
+        line6.innerText = translations.equzhcn.line6;
         equh1.innerText = translations.equzhcn.equh1;
         equh2.innerText = translations.equzhcn.equh2;
         equp1.innerText = translations.equzhcn.equp1;
@@ -510,6 +526,7 @@ const setLanugage = (language) => {
         line3.innerText = translations.equen.line3;
         line4.innerText = translations.equen.line4;
         line5.innerText = translations.equen.line5;
+        line6.innerText = translations.equen.line6;
         equh1.innerText = translations.equen.equh1;
         equh2.innerText = translations.equen.equh2;
         equp1.innerText = translations.equen.equp1;
