@@ -5,7 +5,7 @@ const translations = {
         line2:"Rules (Official Launched)",
         line3:"Who is Terengineer?",
         line4:"Terengineer's Equipment (Set up)",
-        line5:"Disclaimer Warning! (Coming soon)",
+        line5:"Disclaimer Warning!",
         line6:"Select a language:",
         welcome:"Welcome to ",
         shoutout:"Subscribe, Like👍, Follow, and Shout-out📢 Terengineer!",
@@ -29,12 +29,12 @@ const translations = {
         line2:"規則 (正式啟動)",
         line3:"誰是阿祐先生?",
         line4:"阿祐先生的設備",
-        line5:"免責聲明！(即將推出)",
+        line5:"免責聲明！",
         line6:"選擇語言:",
         welcome:"歡迎來到",
         shoutout:"訂閱，按讚👍跟隨，和喊出📢阿祐先生!",
-        link1:"斗內(英文版)!~",
-        link2:"商品(英文版)!~",
+        link1:"斗內 (英文版)!~",
+        link2:"商品 (英文版)!~",
         link3:"加入阿祐先生的會員 (英文版)!~",
         link4:"訂閱!~",
         link5:"跟隨我的X (Twitter) [英文版]!~",
@@ -54,7 +54,7 @@ const translations = {
         line2:"Rules (Official Launched)",
         line3:"Who is Terengineer?",
         line4:"Terengineer's Equipment (Set up)",
-        line5:"Disclaimer Warning! (Coming soon)",
+        line5:"Disclaimer Warning!",
         line6:"Select a language:",
         who:"Who is ",
         abouttext1:"Hello Niece, and Nephew, Ladies, and Gentlemen, it's me.",
@@ -71,7 +71,7 @@ const translations = {
         line2:"規則 (正式啟動)",
         line3:"誰是阿祐先生?",
         line4:"阿祐先生的設備",
-        line5:"免責聲明！(即將推出)",
+        line5:"免責聲明！",
         line6:"選擇語言:",
         who:"誰是",
         abouttext1:"哈喽侄子姪女們、先生和女士們，是我。",
@@ -89,7 +89,7 @@ const translations = {
         line2:"Rules (Official Launched)",
         line3:"Who is Terengineer?",
         line4:"Terengineer's Equipment (Set up)",
-        line5:"Disclaimer Warning! (Coming soon)",
+        line5:"Disclaimer Warning!",
         line6:"Select a language:",
         ruleshead:"Rules (Official launched)",
         rulesb1:"Live Stream, Shorts (Include pinned comment), and Premiere Rules on YouTube in description",
@@ -116,7 +116,7 @@ const translations = {
         line2:"規則 (正式啟動)",
         line3:"誰是阿祐先生?",
         line4:"阿祐先生的設備",
-        line5:"免責聲明！(即將推出)",
+        line5:"免責聲明！",
         line6:"選擇語言:",
         ruleshead:"規則 (正式啟動)",
         rulesb1:"直播、短片 (包含置頂留言)和首播規則都在YT說明欄裡",
@@ -144,7 +144,7 @@ const translations = {
         line2:"Rules (Official Launched)",
         line3:"Who is Terengineer?",
         line4:"Terengineer's Equipment (Set up)",
-        line5:"Disclaimer Warning! (Coming soon)",
+        line5:"Disclaimer Warning!",
         line6:"Select a language:",
         equh1:"My equipment (Set up)",
         equh2:"🖥 Live stream, and Gaming Desktop",
@@ -180,19 +180,18 @@ const translations = {
         equp29:"Keyboard and Touchpad: Backlit Chiclet Keyboard Single Light, Touchpad",
         equp30:"Mouse: ASUS ROG Strix Impact",
         equp31:"Display(Monitor): 14-inch, WQHD (2560 x 1440) 16:9, IPS-level, Anti-glare display, DCI-P3: 100%, Refresh Rate: 120Hz, Adaptive-Sync, Pantone Validated, Optimus",
-        equp32:"Headset: Chaos Tuó Féi GHS-A04",
-        equp33:"Capture Card: AVerMedia GC311",
+        equp32:"Capture Card: AVerMedia GC311",
         equh4:"📱 Other Equipment (Set up):",
-        equp34:"Mobile 1: Lenovo Legion Phone Duel 2",
-        equp35:"Mobile 2: iPad Pro (10.5-inch)",
-        equp36:"Mobile 3: iPad Air Gen5th",
+        equp33:"Mobile 1: Lenovo Legion Phone Duel 2",
+        equp34:"Mobile 2: iPad Pro (10.5-inch)",
+        equp35:"Mobile 3: iPad Air Gen5th",
     },
     equzhcn:{
         line1:"主選單",
         line2:"規則 (正式啟動)",
         line3:"誰是阿祐先生?",
         line4:"阿祐先生的設備",
-        line5:"免責聲明！(即將推出)",
+        line5:"免責聲明！",
         line6:"選擇語言:",
         equh1:"我的設備",
         equh2:"🖥 直播和遊戲桌機",
@@ -228,13 +227,29 @@ const translations = {
         equp29:"鍵盤和觸控盤: Backlit Chiclet Keyboard Single Light, Touchpad",
         equp30:"滑鼠: ASUS ROG Strix Impact",
         equp31:"顯示器: 14-inch, WQHD (2560 x 1440) 16:9, IPS-level, Anti-glare display, DCI-P3: 100%, Refresh Rate: 120Hz, Adaptive-Sync, Pantone Validated, Optimus",
-        equp32:"耳機: Chaos 橐蜚 GHS-A04",
-        equp33:"擷取卡: AVerMedia GC311",
+        equp32:"擷取卡: AVerMedia GC311",
         equh4:"📱 其它設備:",
-        equp34:"行動裝置 1: Lenovo Legion Phone Duel 2",
-        equp35:"行動裝置 2: iPad Pro (10.5吋)",
-        equp36:"行動裝置 3: iPad Air 第五代",
-    }
+        equp33:"行動裝置 1: Lenovo Legion Phone Duel 2",
+        equp34:"行動裝置 2: iPad Pro (10.5吋)",
+        equp35:"行動裝置 3: iPad Air 第五代",
+    },
+    /*Disclaimer Warning*/
+    disclaimerwarningen:{
+        line1:"Home",
+        line2:"Rules (Official Launched)",
+        line3:"Who is Terengineer?",
+        line4:"Terengineer's Equipment (Set up)",
+        line5:"Disclaimer Warning!",
+        line6:"Select a language:",
+    },
+    disclaimerwarningzhcn:{
+        line1:"主選單",
+        line2:"規則 (正式啟動)",
+        line3:"誰是阿祐先生?",
+        line4:"阿祐先生的設備",
+        line5:"免責聲明！",
+        line6:"選擇語言:",
+    },
 }
 const languageSelectop = document.querySelector("select");
 /*Line*/
@@ -321,11 +336,10 @@ let equp29 = document.getElementById("equp29");
 let equp30 = document.getElementById("equp30");
 let equp31 = document.getElementById("equp31");
 let equp32 = document.getElementById("equp32");
-let equp33 = document.getElementById("equp33");
 let equh4 = document.getElementById("equh4");
+let equp33 = document.getElementById("equp33");
 let equp34 = document.getElementById("equp34");
 let equp35 = document.getElementById("equp35");
-let equp36 = document.getElementById("equp36");
 
 languageSelectop.addEventListener("change", (event) => {
     setLanugage(event.target.value)
@@ -514,11 +528,10 @@ const setLanugage = (language) => {
         equp30.innerText = translations.equzhcn.equp30;
         equp31.innerText = translations.equzhcn.equp31;
         equp32.innerText = translations.equzhcn.equp32;
-        equp33.innerText = translations.equzhcn.equp33;
         equh4.innerText = translations.equzhcn.equh4;
+        equp33.innerText = translations.equzhcn.equp33;
         equp34.innerText = translations.equzhcn.equp34;
         equp35.innerText = translations.equzhcn.equp35;
-        equp36.innerText = translations.equzhcn.equp36;
     }
     else if (language == "equen"){
         line1.innerText = translations.equen.line1;
@@ -562,10 +575,26 @@ const setLanugage = (language) => {
         equp30.innerText = translations.equen.equp30;
         equp31.innerText = translations.equen.equp31;
         equp32.innerText = translations.equen.equp32;
-        equp33.innerText = translations.equen.equp33;
         equh4.innerText = translations.equen.equh4;
+        equp33.innerText = translations.equen.equp33;
         equp34.innerText = translations.equen.equp34;
         equp35.innerText = translations.equen.equp35;
-        equp36.innerText = translations.equen.equp36;
+    };
+    /*Disclamer Warning*/
+    if (language == "disclaimerwarningzhcn"){
+        line1.innerText = translations.disclaimerwarningzhcn.line1;
+        line2.innerText = translations.disclaimerwarningzhcn.line2;
+        line3.innerText = translations.disclaimerwarningzhcn.line3;
+        line4.innerText = translations.disclaimerwarningzhcn.line4;
+        line5.innerText = translations.disclaimerwarningzhcn.line5;
+        line6.innerText = translations.disclaimerwarningzhcn.line6;
     }
+    else if (language == "disclaimerwarningen"){
+        line1.innerText = translations.disclaimerwarningen.line1;
+        line2.innerText = translations.disclaimerwarningen.line2;
+        line3.innerText = translations.disclaimerwarningen.line3;
+        line4.innerText = translations.disclaimerwarningen.line4;
+        line5.innerText = translations.disclaimerwarningen.line5;
+        line6.innerText = translations.disclaimerwarningen.line6;
+    };
 }
