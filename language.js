@@ -17,7 +17,7 @@ const translations = {
         link6:"Follow my Tumblr!~",
         link7:"Follow my Facebook!~",
         link8:"Follow my Instagram!~",
-        link9:"Join my Discord (THIS IS 100% REAL, NOT FAKE, AND JOKE)!~",
+        link9:"Join my Discord (THIS IS 100% REAL, NOT FAKED, LIED, JOKING, AND KIDDING)!~",
         link10:"Follow my Twitch!~",
         link11:"Follow my Tiktok!~",
         link12:"Look at my wiki!~",
@@ -26,27 +26,27 @@ const translations = {
     },
     zhcn:{
         line1:"主選單",
-        line2:"規則 (正式啟動)",
+        line2:"規則（正式啟動）",
         line3:"誰是阿祐先生?",
         line4:"阿祐先生的設備",
         line5:"免責聲明！",
         line6:"選擇語言:",
         welcome:"歡迎來到",
-        shoutout:"訂閱，按讚👍跟隨，和喊出📢阿祐先生!",
-        link1:"斗內 (英文版)!~",
-        link2:"商品 (英文版)!~",
-        link3:"加入阿祐先生的會員 (英文版)!~",
+        shoutout:"訂閱、按讚👍、跟隨、和喊出📢阿祐先生!",
+        link1:"斗內（英文版)!~",
+        link2:"商品（英文版)!~",
+        link3:"加入阿祐先生的會員（英文版）!~",
         link4:"訂閱!~",
-        link5:"跟隨我的X (Twitter) [英文版]!~",
-        link6:"跟隨我的Tumblr (英文版)!~",
-        link7:"跟隨我的FB (英文版)!~",
-        link8:"跟隨我的IG (英文版)!~",
-        link9:"加入我的DC (這是真實的100%，不是假的和開玩笑)!~",
-        link10:"跟隨我的Twitch (英文版)!~",
-        link11:"跟隨我的Tiktok (英文版)!~",
-        link12:"查看我的wiki (英文版)!~",
-        link13:"聆聽我的Soundcloud (英文版)!~",
-        link14:"跟隨我的Newgrounds (英文版)!~",
+        link5:"跟隨我的X（Twitter）（英文版）!~",
+        link6:"跟隨我的Tumblr（英文版）!~",
+        link7:"跟隨我的FB（英文版）!~",
+        link8:"跟隨我的IG（英文版）!~",
+        link9:"加入我的DC（這是真實的100%，不是假的、說謊、和開玩笑）!~",
+        link10:"跟隨我的Twitch（英文版）!~",
+        link11:"跟隨我的Tiktok（英文版）!~",
+        link12:"查看我的wiki（英文版）!~",
+        link13:"聆聽我的Soundcloud（英文版）!~",
+        link14:"跟隨我的Newgrounds（英文版）!~",
     },
     /*About*/
     abouten:{
@@ -59,16 +59,17 @@ const translations = {
         who:"Who is ",
         abouttext1:"Hello Niece, and Nephew, Ladies, and Gentlemen, it's me.",
         abouttext2:"I'm The Gaming, Earthquake Monitoring, and Live Streamer.",
-        abouttext3:"My nationality from Taiwan(ROC).",
-        abouttext4:"But I'm Highlights Videos, and Shorts, unfortunately in 2018, I started seat wheel chair with got fever sick, I can't walk for move now, but I never give up, so hope you enjoy, please smash like button👍, follow, subscribe, and Shout-Out Terengineer📢!",
-        abouttext5:"Please make sure I'm opened my Official website, Donate, Merch, Patreon, YT, FB, X (Twitter), Tumblr, IG, Fandom wiki, Discord, Tiktok, Twitch, SoundCloud, Newgrounds, and my 2nd channel (No longer upload videos) is official correct, the other is fake, thank you!",
+        abouttext3:"My nationality from Taiwan (ROC).",
+        abouttext4:"I'm Highlights Videos, and Shorts, unfortunately in 2018, I started seat wheel chair with got fever sick, I can't walk for move now, but I never give up, so hope you enjoy, please smash like button👍, follow, subscribe, and Shout-Out Terengineer📢!",
+        abouttext5:"Real Human Person🧑, Not AI BOT🤖❌",
+        abouttext6:"Please make sure I'm opened my Official website, Donate, Merch, Patreon, YT, FB, X (Twitter), Tumblr, IG, Fandom wiki, Discord, Tiktok, Twitch, SoundCloud, Newgrounds, and my 2nd channel (No longer upload videos) is official correct, the other is fake, thank you!",
         official:"On June, 16th, 2024, The Rules has been officially launched!",
         visit:"Visit Links:",
-        dc:"Discord(Must join Terengineer Server can saw it)",
+        dc:"Discord (Must join Terengineer Server can saw it)",
     },
     aboutzhcn:{
         line1:"主選單",
-        line2:"規則 (正式啟動)",
+        line2:"規則（正式啟動）",
         line3:"誰是阿祐先生?",
         line4:"阿祐先生的設備",
         line5:"免責聲明！",
@@ -76,23 +77,24 @@ const translations = {
         who:"誰是",
         abouttext1:"哈喽侄子姪女們、先生和女士們，是我。",
         abouttext2:"我是遊戲玩家、地震監視和直播主。",
-        abouttext3:"我的國藉來自台灣(中華民國)。",
-        abouttext4:"但是我會精華影片、和短片，不幸的是在2018年，我生病就開始坐輪椅，我現在沒辦法走路，但是我不能放棄，所以希望您們喜歡，請按讚👍、跟隨、訂閱和喊出阿祐先生📢!",
-        abouttext5:"請確認我開啟的是官方網站、斗內、商品、Patreon、YT、FB、X (Twitter)、Tumblr、IG、Fandom wiki、Discord、Tiktok、Twitch、SoundCloud、Newgrounds和我的副頻道 (不再上傳新影片) 是正式正確的，其它是假的，感謝您!",
+        abouttext3:"我的國藉來自台灣（中華民國）。",
+        abouttext4:"我會精華影片、和短片，不幸的是在2018年，我生病就開始坐輪椅，我現在沒辦法走路，但是我不能放棄，所以希望您們喜歡，請按讚👍、跟隨、訂閱和喊出阿祐先生📢!",
+        abouttext5:"真人🧑，不是AI機器人🤖❌",
+        abouttext6:"請確認我開啟的是官方網站、斗內、商品、Patreon、YT、FB、X（Twitter）、Tumblr、IG、Fandom wiki、Discord、Tiktok、Twitch、SoundCloud、Newgrounds和我的副頻道（不再上傳新影片）是正式正確的，其它是假的，感謝您!",
         official:"2024年6月16日，本規則已正式啟動!",
         visit:"訪問連結:",
-        dc:"Discord(必須要加入阿祐先生伺服器才可以看見)",
+        dc:"Discord（必須要加入阿祐先生伺服器才可以看見）",
     },
     /*Rules*/
     rulesen:{
         line1:"Home",
-        line2:"Rules (Official Launched)",
+        line2:"Rules (Official Launched）",
         line3:"Who is Terengineer?",
         line4:"Terengineer's Equipment (Set up)",
         line5:"Disclaimer Warning!",
         line6:"Select a language:",
         ruleshead:"Rules (Official launched)",
-        rulesb1:"Live Stream, Shorts (Include pinned comment), and Premiere Rules on YouTube in description",
+        rulesb1:"Live Stream, Shorts, and Premiere Rules on YouTube in description",
         rulesb2:"Strictly prohibited🚫:",
         rulesp1:"1. Without speak Traditional Chinese, and English (Except Earthquake monitoring live)!~",
         rulesp2:"2. No Serious call my Nickname!~",
@@ -105,7 +107,7 @@ const translations = {
         rulesp9:"9. Announcement anything (Except Terengineer owner)📢!~",
         rulesp10:"10. Publish, reprint, quote or allude to any remarks or articles related to earthquake prediction on Earthquakes cannot be effectively predicted (To avoid violating the Meteorological Law or the Public Order Maintenance Law, Earthquake livestream only)!~",
         rulesp11:"11. In-game False vote kick!~",
-        rulesb3:"⚠️If you do it a violation rule(s), 1st remove, 2nd report, 3rd permanent block, and report by Terengineer (Include joined Terengineer Discord)!~",
+        rulesb3:"⚠️If you do it a violated rule(s), 1st Remove (Warn), 2nd Report (Mute), 3rd Permanent Block (Ban), and Report by Terengineer (Include joined Terengineer Discord)!~",
         rulesb4:"🤝Sponsored for business inquiries e-mail (Only Legitimate for 3C product, and Game, Strictly prohibited illegal, and others!~):",
         official:"On June, 16th, 2024, The Rules has been officially launched!",
         visit:"Visit Links:",
@@ -113,30 +115,30 @@ const translations = {
     },
     ruleszhcn:{
         line1:"主選單",
-        line2:"規則 (正式啟動)",
+        line2:"規則（正式啟動）",
         line3:"誰是阿祐先生?",
         line4:"阿祐先生的設備",
         line5:"免責聲明！",
         line6:"選擇語言:",
-        ruleshead:"規則 (正式啟動)",
-        rulesb1:"直播、短片 (包含置頂留言)和首播規則都在YT說明欄裡",
+        ruleshead:"規則（正式啟動）",
+        rulesb1:"直播、短片和首播規則都在YT說明欄裡",
         rulesb2:"嚴禁🚫:",
-        rulesp1:"1. 沒有說出繁體中文和英文 (除地震監視直播以外)!~",
+        rulesp1:"1. 沒有說出繁體中文和英文（除地震監視直播以外）!~",
         rulesp2:"2. 沒有認真叫我暱稱!~",
-        rulesp3:"3. 駭客和攻擊 (包含說我很糟和我的每一個、某一個和任一個很糟)!~",
-        rulesp4:"4. 檢舉所有 (除某位觀眾違反以外，惡作劇將會永久封鎖)!~",
-        rulesp5:"5. 打緊急電話 (惡作劇將會永久封鎖)!~",
+        rulesp3:"3. 駭客和攻擊（包含說我很糟和我的每一個、某一個和任一個很糟）!~",
+        rulesp4:"4. 檢舉所有（除某位觀眾違反以外，惡作劇將會永久封鎖）!~",
+        rulesp5:"5. 打緊急電話（惡作劇將會永久封鎖）!~",
         rulesp6:"6. 放不明連結和瑟瑟連結!~",
-        rulesp7:"7. 按不喜歡👎 (只有在YT)!~",
+        rulesp7:"7. 按不喜歡👎（只有在YT）!~",
         rulesp8:"8. 任何政治!~",
-        rulesp9:"9. 任何公告 (除阿祐先生本人以外)📢!~",
-        rulesp10:"10. 地震無法有效預測，發表、轉載、引用或暗喻任何有關地震預測相關言論或文章 (以免觸犯氣象法或是社會秩序維護法，只有地震監視直播)!~",
+        rulesp9:"9. 任何公告（除阿祐先生本人以外）📢!~",
+        rulesp10:"10. 地震無法有效預測，發表、轉載、引用或暗喻任何有關地震預測相關言論或文章（以免觸犯氣象法或是社會秩序維護法，只有地震監視直播）!~",
         rulesp11:"11. 遊戲裡假踢出投票!~",
-        rulesb3:"⚠️如果您做出違反本規則，第一次移除，第二次檢舉，第三次永久封鎖和檢舉由阿祐先生 (包含已加入的阿祐先生DC)!~",
-        rulesb4:"🤝贊助業務諮詢電子郵件 (只有合法的3C產品和遊戲，嚴禁非法和其它!~):",
+        rulesb3:"⚠️如果您違反規則，第一次移除（警告），第二次檢舉（靜音），第三次永久封鎖和檢舉由阿祐先生（包含已加入的阿祐先生DC）!~",
+        rulesb4:"🤝贊助業務諮詢電子郵件（只有合法的3C產品和遊戲，嚴禁非法和其它!~）:",
         official:"2024年6月16日，本規則已正式啟動!",
         visit:"訪問連結:",
-        dc:"Discord (必須要加入阿祐先生伺服器才可以看見)",
+        dc:"Discord（必須要加入阿祐先生伺服器才可以看見）",
     },
     /*Equipment*/
     equen:{
@@ -187,7 +189,7 @@ const translations = {
     },
     equzhcn:{
         line1:"主選單",
-        line2:"規則 (正式啟動)",
+        line2:"規則（正式啟動）",
         line3:"誰是阿祐先生?",
         line4:"阿祐先生的設備",
         line5:"免責聲明！",
@@ -199,10 +201,10 @@ const translations = {
         equp3:"記憶體: 金士頓 FURY Beast DDR5 5600 64GB (32GBx2) RGB",
         equp4:"CPU散熱器: ASUS TUF Gaming LC II 360 ARGB",
         equp5:"電源共應器: ASUS TUF Gaming 1000W 軍戎白 Gold",
-        equp6:"M2 SSD 1 (系統/應用程式): Samsung 9100 PRO 1TB NVMe M.2 2280 PCIe 5",
-        equp7:"M2 SSD 2 (遊戲 1): WD 黑標 SN7100 4TB Gen4 NVMe PCIe 4 SSD",
-        equp8:"SSD (遊戲 2): 創見 4TB SSD230S 2.5 inch SATA III SSD",
-        equp9:"硬碟(資料/媒體): 希捷 IronWolf Pro 16TB NAS Hard Drive",
+        equp6:"M2 SSD 1（系統/應用程式）: Samsung 9100 PRO 1TB NVMe M.2 2280 PCIe 5",
+        equp7:"M2 SSD 2（遊戲 1）: WD 黑標 SN7100 4TB Gen4 NVMe PCIe 4 SSD",
+        equp8:"SSD（遊戲 2）: 創見 4TB SSD230S 2.5 inch SATA III SSD",
+        equp9:"硬碟（資料/媒體）: 希捷 IronWolf Pro 16TB NAS Hard Drive",
         equp10:"顯示卡: ASUS TUF Gaming NVIDIA GeForce RTX 5060Ti OC Edition 16GB GDDR7",
         equp11:"系統: Windows 11 專業版",
         equp12:"直播應用程式: OBS Studio",
@@ -228,7 +230,7 @@ const translations = {
         equp31:"擷取卡: AVerMedia GC311",
         equh4:"📱 其它設備:",
         equp32:"行動裝置 1: Lenovo Legion Phone Duel 2",
-        equp33:"行動裝置 2: iPad Pro (10.5吋)",
+        equp33:"行動裝置 2: iPad Pro（10.5吋）",
         equp34:"行動裝置 3: iPad Air 第五代",
     },
     /*Disclaimer Warning*/
@@ -242,7 +244,7 @@ const translations = {
     },
     disclaimerwarningzhcn:{
         line1:"主選單",
-        line2:"規則 (正式啟動)",
+        line2:"規則（正式啟動）",
         line3:"誰是阿祐先生?",
         line4:"阿祐先生的設備",
         line5:"免責聲明！",
@@ -285,6 +287,7 @@ let abouttext2 = document.getElementById("abouttext2");
 let abouttext3 = document.getElementById("abouttext3");
 let abouttext4 = document.getElementById("abouttext4");
 let abouttext5 = document.getElementById("abouttext5");
+let abouttext6 = document.getElementById("abouttext6");
 /*Rules*/
 let ruleshead = document.getElementById("ruleshead");
 let rulesb1 = document.getElementById("rulesb1");
@@ -407,6 +410,7 @@ const setLanugage = (language) => {
         abouttext3.innerText = translations.aboutzhcn.abouttext3;
         abouttext4.innerText = translations.aboutzhcn.abouttext4;
         abouttext5.innerText = translations.aboutzhcn.abouttext5;
+        abouttext6.innerText = translations.aboutzhcn.abouttext6;
         official.innerText = translations.aboutzhcn.official;
         visit.innerText = translations.aboutzhcn.visit;
         dc.innerText = translations.aboutzhcn.dc;
@@ -424,6 +428,7 @@ const setLanugage = (language) => {
         abouttext3.innerText = translations.abouten.abouttext3;
         abouttext4.innerText = translations.abouten.abouttext4;
         abouttext5.innerText = translations.abouten.abouttext5;
+        abouttext6.innerText = translations.abouten.abouttext6;
         official.innerText = translations.abouten.official;
         visit.innerText = translations.abouten.visit;
         dc.innerText = translations.abouten.dc;
