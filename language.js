@@ -181,7 +181,7 @@ const translations = {
         equp28:"OS: Windows 11 Home",
         equp29:"Keyboard and Touchpad: Backlit Chiclet Keyboard Single Light, Touchpad",
         equp30:"Mouse: ASUS ROG Strix Impact",
-        equp31:"Display(Monitor): 14-inch, WQHD (2560 x 1440) 16:9, IPS-level, Anti-glare display, DCI-P3: 100%, Refresh Rate: 120Hz, Adaptive-Sync, Pantone Validated, Optimus",
+        equp31:"Display (Monitor): 14-inch, WQHD (2560 x 1440) 16:9, IPS-level, Anti-glare display, DCI-P3: 100%, Refresh Rate: 120Hz, Adaptive-Sync, Pantone Validated, Optimus",
         equh4:"📱 Other Equipment (Set up):",
         equp32:"Mobile 1: Lenovo Legion Phone Duel 2",
         equp33:"Mobile 2: iPad Pro (10.5-inch)",
