@@ -7,7 +7,7 @@ const translations = {
         line4:"Terengineer's Equipment (Set up)",
         line5:"Disclaimer Warning!",
         line6:"Select a language:",
-        welcome:"Welcome to ",
+        welcome:"Welcome to Terengineer",
         shoutout:"Subscribe, Like👍, Follow, and Shout-out📢 Terengineer!",
         link1:"Donate!~",
         link2:"Merch!~",
@@ -31,7 +31,7 @@ const translations = {
         line4:"阿祐先生的設備",
         line5:"免責聲明！",
         line6:"選擇語言:",
-        welcome:"歡迎來到",
+        welcome:"歡迎來到阿祐先生",
         shoutout:"訂閱、按讚👍、跟隨、和喊出📢阿祐先生!",
         link1:"斗內（英文版）!~",
         link2:"商品（英文版）!~",
@@ -56,7 +56,7 @@ const translations = {
         line4:"Terengineer's Equipment (Set up)",
         line5:"Disclaimer Warning!",
         line6:"Select a language:",
-        who:"Who is ",
+        who:"Who is Terengineer",
         abouttext1:"Hello Niece, and Nephew, Ladies, and Gentlemen, it's me.",
         abouttext2:"I'm The Gaming, Earthquake Monitoring, and Live Streamer.",
         abouttext3:"My nationality from Taiwan (ROC).",
@@ -74,7 +74,7 @@ const translations = {
         line4:"阿祐先生的設備",
         line5:"免責聲明！",
         line6:"選擇語言:",
-        who:"誰是",
+        who:"誰是阿祐先生",
         abouttext1:"哈喽侄子姪女們、先生和女士們，是我。",
         abouttext2:"我是遊戲玩家、地震監視和直播主。",
         abouttext3:"我的國藉來自台灣（中華民國）。",
@@ -98,15 +98,13 @@ const translations = {
         rulesb2:"Strictly prohibited🚫:",
         rulesp1:"1. Without speak Traditional Chinese, and English (Except Earthquake monitoring live)!~",
         rulesp2:"2. No Serious call my Nickname!~",
-        rulesp3:"3. Hack, and Attack (Include said I'm so bad, and my everything, something, and anything so bad)!~",
+        rulesp3:"3. Hack, Attack, and Spam (Include too much/many)!~",
         rulesp4:"4. Report all (Except some viewer violation rule(s), Malicious will be permanent block)!~",
         rulesp5:"5. Call Emergency (Malicious will be permanent block)!~",
-        rulesp6:"6. Put unknown link, and nsfw link!~",
+        rulesp6:"6. Announcement anything (Except Shout-out) 📢, put unknown link, and nsfw link (Include Scam)!~",
         rulesp7:"7. Press dislike button👎 (Only on YouTube)!~",
         rulesp8:"8. Any political!~",
-        rulesp9:"9. Announcement anything (Except Terengineer owner)📢!~",
-        rulesp10:"10. Publish, reprint, quote or allude to any remarks or articles related to earthquake prediction on Earthquakes cannot be effectively predicted (To avoid violating the Meteorological Law or the Public Order Maintenance Law, Earthquake livestream only)!~",
-        rulesp11:"11. In-game False vote kick!~",
+        rulesp9:"9. In-game False vote kick!~",
         rulesb3:"⚠️If you do it a violated rule(s), 1st Remove (Warn), 2nd Report (Mute), 3rd Permanent Block (Ban), and Report by Terengineer (Include joined Terengineer Discord)!~",
         rulesb4:"🤝Sponsored for business inquiries e-mail (Only Legitimate for 3C product, and Game, Strictly prohibited illegal, and others!~):",
         official:"On June, 16th, 2024, The Rules has been officially launched!",
@@ -123,20 +121,18 @@ const translations = {
         ruleshead:"規則（正式啟動）",
         rulesb1:"直播、短片和首播規則都在YT說明欄裡",
         rulesb2:"嚴禁🚫:",
-        rulesp1:"1. 沒有說出繁體中文和英文（除地震監視直播以外）!~",
-        rulesp2:"2. 沒有認真叫我暱稱!~",
-        rulesp3:"3. 駭客和攻擊（包含說我很糟和我的每一個、某一個和任一個很糟）!~",
-        rulesp4:"4. 檢舉所有（除某位觀眾違反以外，惡作劇將會永久封鎖）!~",
-        rulesp5:"5. 打緊急電話（惡作劇將會永久封鎖）!~",
-        rulesp6:"6. 放不明連結和瑟瑟連結!~",
-        rulesp7:"7. 按不喜歡👎（只有在YT）!~",
-        rulesp8:"8. 任何政治!~",
-        rulesp9:"9. 任何公告（除阿祐先生本人以外）📢!~",
-        rulesp10:"10. 地震無法有效預測，發表、轉載、引用或暗喻任何有關地震預測相關言論或文章（以免觸犯氣象法或是社會秩序維護法，只有地震監視直播）!~",
-        rulesp11:"11. 遊戲裡假踢出投票!~",
-        rulesb3:"⚠️如果您違反規則，第一次移除（警告），第二次檢舉（靜音），第三次永久封鎖和檢舉由阿祐先生（包含已加入的阿祐先生DC）!~",
-        rulesb4:"🤝贊助業務諮詢電子郵件（只有合法的3C產品和遊戲，嚴禁非法和其它!~）:",
-        official:"2024年6月16日，本規則已正式啟動!",
+        rulesp1:"1. 沒有說出繁體中文和英文（除地震監視直播以外）！~",
+        rulesp2:"2. 沒有認真叫我暱稱！~",
+        rulesp3:"3. 駭客、攻擊和洗版（包含太多）！~",
+        rulesp4:"4. 檢舉所有（除某位觀眾違反以外，惡作劇將會永久封鎖）！~",
+        rulesp5:"5. 打緊急電話（惡作劇將會永久封鎖）！~",
+        rulesp6:"6. 任何事物公告（除了 Shout-out 以外）📢，放不明連結和色情連結！~",
+        rulesp7:"7. 按不喜歡👎（只有在YT）！~",
+        rulesp8:"8. 任何政治！~",
+        rulesp9:"9. 遊戲內假票踢出！~",
+        rulesb3:"⚠️如果您違反規則，第一次移除（警告），第二次檢舉（靜音），第三次永久封鎖和檢舉由阿祐先生（包含已加入的阿祐先生DC）！~",
+        rulesb4:"🤝贊助業務諮詢電子郵件（只有合法的3C產品和遊戲，嚴禁非法和其它！~）:",
+        official:"2024年6月16日，本規則已正式啟動！",
         visit:"訪問連結:",
         dc:"Discord（必須要加入阿祐先生伺服器才可以看見）",
     },
@@ -301,8 +297,6 @@ let rulesp6 = document.getElementById("rulesp6");
 let rulesp7 = document.getElementById("rulesp7");
 let rulesp8 = document.getElementById("rulesp8");
 let rulesp9 = document.getElementById("rulesp9");
-let rulesp10 = document.getElementById("rulesp10");
-let rulesp11 = document.getElementById("rulesp11");
 let rulesb3 = document.getElementById("rulesb3");
 let rulesb4 = document.getElementById("rulesb4");
 /*Equipment*/
@@ -456,8 +450,6 @@ const setLanugage = (language) => {
         rulesp7.innerText = translations.ruleszhcn.rulesp7;
         rulesp8.innerText = translations.ruleszhcn.rulesp8;
         rulesp9.innerText = translations.ruleszhcn.rulesp9;
-        rulesp10.innerText = translations.ruleszhcn.rulesp10;
-        rulesp11.innerText = translations.ruleszhcn.rulesp11;
         rulesb3.innerText = translations.ruleszhcn.rulesb3;
         rulesb4.innerText = translations.ruleszhcn.rulesb4;
         official.innerText = translations.ruleszhcn.official;
@@ -483,8 +475,6 @@ const setLanugage = (language) => {
         rulesp7.innerText = translations.rulesen.rulesp7;
         rulesp8.innerText = translations.rulesen.rulesp8;
         rulesp9.innerText = translations.rulesen.rulesp9;
-        rulesp10.innerText = translations.rulesen.rulesp10;
-        rulesp11.innerText = translations.rulesen.rulesp11;
         rulesb3.innerText = translations.rulesen.rulesb3;
         rulesb4.innerText = translations.rulesen.rulesb4;
         official.innerText = translations.rulesen.official;
