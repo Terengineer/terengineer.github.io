@@ -106,12 +106,14 @@ header{
     display: inline-block;
     text-shadow: 0 0 5px rgb(0, 255, 234);
     position: relative;
+    font-size: 17.5px;
     -webkit-text-stroke: 0.75px blue;
 }
 .text a::after{
     content:'';
     width: 0%;
     height: 2px;
+    font-size: 17.5px;
     background: rgb(255, 0, 0);
     display: block;
     margin: auto;
@@ -119,6 +121,7 @@ header{
     -webkit-text-stroke: 0.75px rgb(124, 0, 0);
 }
 .text a:hover{
+    font-size: 17.5px;
     color: rgb(255, 0, 0);
     text-transform: uppercase;
     display: inline-block;
@@ -152,7 +155,7 @@ header{
 }
 .active{
     width: 90%;
-    min-height: 100vh;
+    min-height: 80vh;
     color: white;
     display: flex;
     justify-content: center;
@@ -184,6 +187,7 @@ header{
     font-size: 3em;
     letter-spacing: 6px;
     -webkit-text-stroke: 1px blue;
+    font-size: 50px;
 }
 .active p{
     font-family: 'text';
@@ -194,6 +198,7 @@ header{
     letter-spacing: 3px;
     text-transform: uppercase;
     -webkit-text-stroke: 1px blue;
+    font-size: 22.5px;
 }
 .active a{
     text-decoration: none;
@@ -274,7 +279,7 @@ header{
 .about{
     font-family: 'text';
     width: 90%;
-    min-height: 100vh;
+    min-height: 80vh;
     color: rgb(0, 255, 234);
     display: flex;
     justify-content: center;
@@ -291,7 +296,7 @@ header{
     line-height: 1.4;
     margin: 15px 0;
     text-transform: uppercase;
-    font-size: 3em;
+    font-size: 4em;
     letter-spacing: 6px;
     -webkit-text-stroke: 1px blue;
 }
@@ -300,10 +305,12 @@ header{
     line-height: 1.4;
     margin: 15px 0;
     letter-spacing: 3px;
+    font-size: 27.5px;
     text-transform: uppercase;
     -webkit-text-stroke: 1px blue;
 }
 .about b{
+    font-size: 22px;
     -webkit-text-stroke: 1px blue;
 }
 .about-logo{
@@ -323,6 +330,7 @@ header{
     color: rgb(0, 255, 234);
     list-style: none;
     padding: 2px 2px;
+    font-size: 17.5px;
     text-transform: uppercase;
     display: inline-block;
     text-shadow: 0 0 5px rgb(0, 255, 234);
@@ -333,6 +341,7 @@ header{
     content:'';
     width: 0%;
     height: 2px;
+    font-size: 17.5px;
     background: rgb(255, 0, 0);
     display: block;
     margin: auto;
@@ -340,6 +349,7 @@ header{
     -webkit-text-stroke: 0.75px rgb(124, 0, 0);
 }
 .about-text a:hover{
+    font-size: 17.5px;
     color: rgb(255, 0, 0);
     text-transform: uppercase;
     display: inline-block;
@@ -427,7 +437,7 @@ header{
 .rules{
     font-family: 'text';
     width: 90%;
-    min-height: 100vh;
+    min-height: 80vh;
     color: rgb(0, 255, 234);
     display: flex;
     justify-content: center;
@@ -440,23 +450,25 @@ header{
     text-shadow: 0 0 5px rgb(0, 255, 234)
 }
 .rules h1{
+    font-size: 60px;
     font-family: 'Heading';
     line-height: 1.4;
     margin: 15px 0;
     text-transform: uppercase;
-    font-size: 3em;
     letter-spacing: 6px;
     -webkit-text-stroke: 1px blue;
 }
 .rules p{
+    font-size: 25px;
     font-family: 'text';
     line-height: 1.4;
     margin: 15px 0;
     letter-spacing: 3px;
     text-transform: uppercase;
-    -webkit-text-stroke: 0.75px blue;
+    -webkit-text-stroke: 1.25px blue;
 }
 .rules b{
+    font-size: 25px;
     -webkit-text-stroke: 0.75px blue;
 }
 .rules-logo{
@@ -472,6 +484,7 @@ header{
 }
 .rules-text a{
     font-family: 'text';
+    font-size: 17.5px;
     text-decoration: none;
     color: rgb(0, 255, 234);
     list-style: none;
@@ -483,6 +496,7 @@ header{
     -webkit-text-stroke: 0.75px blue;
 }
 .rules-text a::after{
+    font-size: 17.5px;
     content:'';
     width: 0%;
     height: 2px;
@@ -493,6 +507,7 @@ header{
     -webkit-text-stroke: 0.75px rgb(124, 0, 0);
 }
 .rules-text a:hover{
+    font-size: 17.5px;
     color: rgb(255, 0, 0);
     text-transform: uppercase;
     display: inline-block;
@@ -579,7 +594,7 @@ header{
 }
 .equipment{
     width: 90%;
-    min-height: 100vh;
+    min-height: 80vh;
     color: rgb(0, 255, 234);
     display: flex;
     justify-content: space-between;
@@ -595,7 +610,7 @@ header{
     line-height: 1.4;
     margin: 15px 0;
     text-transform: uppercase;
-    font-size: 3em;
+    font-size: 70px;
     letter-spacing: 6px;
     -webkit-text-stroke: 0.1px blue;
 }
@@ -603,17 +618,18 @@ header{
         font-family: 'Heading';
         line-height: 1.4;
         text-transform: uppercase;
-        font-size: 30px;
+        font-size: 50px;
         letter-spacing: 4px;
         -webkit-text-stroke: 0.5px blue;
 }
 .equipment p{
+    font-size: 22.5px;
     font-family: 'text';
     line-height: 1.4;
     margin: 15px 0;
     letter-spacing: 3px;
     text-transform: uppercase;
-    -webkit-text-stroke: 0.75px blue;
+    -webkit-text-stroke: 1.25px blue;
 }
 .equipment-logo{
     float: left;
@@ -634,6 +650,7 @@ header{
     align-items: right;
 }
 .equipment-text a{
+    font-size: 17.5px;
     font-family: 'text';
     text-decoration: none;
     color: rgb(0, 255, 234);
@@ -646,6 +663,7 @@ header{
     -webkit-text-stroke: 0.75px blue;
 }
 .equipment-text a::after{
+    font-size: 17.5px;
     content:'';
     width: 0%;
     height: 2px;
@@ -656,6 +674,7 @@ header{
     -webkit-text-stroke: 0.75px rgb(124, 0, 0);
 }
 .equipment-text a:hover{
+    font-size: 17.5px;
     color: rgb(255, 0, 0);
     text-transform: uppercase;
     display: inline-block;
@@ -721,7 +740,7 @@ header{
 .disclaimerwarning{
     font-family: 'text';
     width: 90%;
-    min-height: 100vh;
+    min-height: 80vh;
     color: rgb(0, 255, 234);
     display: flex;
     justify-content: center;
@@ -762,6 +781,7 @@ header{
     align-items: center;
 }
 .disclaimerwarning-text a{
+    font-size: 17.5px;
     font-family: 'text';
     text-decoration: none;
     color: rgb(0, 255, 234);
@@ -774,6 +794,7 @@ header{
     -webkit-text-stroke: 0.75px blue;
 }
 .disclaimerwarning-text a::after{
+    font-size: 17.5px;
     content:'';
     width: 0%;
     height: 2px;
@@ -784,6 +805,7 @@ header{
     -webkit-text-stroke: 0.75px rgb(124, 0, 0);
 }
 .disclaimerwarning-text a:hover{
+    font-size: 17.5px;
     color: rgb(255, 0, 0);
     text-transform: uppercase;
     display: inline-block;
