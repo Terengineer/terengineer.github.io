@@ -25,6 +25,9 @@ img img{
 }
 body{
     background-image: url('images/Background 2560 x 1440.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
 }
 /*Index*/
 .big-container{
@@ -103,6 +106,7 @@ header{
     display: inline-block;
     text-shadow: 0 0 5px rgb(0, 255, 234);
     position: relative;
+    -webkit-text-stroke: 0.75px blue;
 }
 .text a::after{
     content:'';
@@ -112,6 +116,7 @@ header{
     display: block;
     margin: auto;
     transition: 0.8s;
+    -webkit-text-stroke: 0.75px rgb(124, 0, 0);
 }
 .text a:hover{
     color: rgb(255, 0, 0);
@@ -119,6 +124,7 @@ header{
     display: inline-block;
     text-shadow: 0 0 5px rgb(255, 0, 0);
     transition: 0.5s;
+    -webkit-text-stroke: 0.75px rgb(124, 0, 0);
 }
 .text a:hover::after{
     width: 100%;
@@ -132,6 +138,7 @@ header{
     animation: fade 2s forwards;
     animation-delay: 1s;
     opacity: 0;
+    -webkit-text-stroke: 1px blue;
 }
 .text ul{
     margin-right: 30px;
@@ -176,6 +183,7 @@ header{
     text-transform: uppercase;
     font-size: 3em;
     letter-spacing: 6px;
+    -webkit-text-stroke: 1px blue;
 }
 .active p{
     font-family: 'text';
@@ -185,6 +193,7 @@ header{
     margin: 15px 0;
     letter-spacing: 3px;
     text-transform: uppercase;
+    -webkit-text-stroke: 1px blue;
 }
 .active a{
     text-decoration: none;
@@ -275,7 +284,7 @@ header{
     left: 50%;
     transform: translate(6%);
     text-align: center;
-    text-shadow: 0 0 5px rgb(0, 255, 234)
+    text-shadow: 0 0 5px rgb(0, 255, 234);
 }
 .about h1{
     font-family: 'Heading';
@@ -284,6 +293,7 @@ header{
     text-transform: uppercase;
     font-size: 3em;
     letter-spacing: 6px;
+    -webkit-text-stroke: 1px blue;
 }
 .about p{
     font-family: 'text';
@@ -291,6 +301,10 @@ header{
     margin: 15px 0;
     letter-spacing: 3px;
     text-transform: uppercase;
+    -webkit-text-stroke: 1px blue;
+}
+.about b{
+    -webkit-text-stroke: 1px blue;
 }
 .about-logo{
     float: left;
@@ -313,6 +327,7 @@ header{
     display: inline-block;
     text-shadow: 0 0 5px rgb(0, 255, 234);
     position: relative;
+    -webkit-text-stroke: 0.75px blue;
 }
 .about-text a::after{
     content:'';
@@ -322,6 +337,7 @@ header{
     display: block;
     margin: auto;
     transition: 0.8s;
+    -webkit-text-stroke: 0.75px rgb(124, 0, 0);
 }
 .about-text a:hover{
     color: rgb(255, 0, 0);
@@ -329,6 +345,7 @@ header{
     display: inline-block;
     text-shadow: 0 0 5px rgb(255, 0, 0);
     transition: 0.5s;
+    -webkit-text-stroke: 0.75px rgb(124, 0, 0);
 }
 .about-text a:hover::after{
     width: 100%;
@@ -429,6 +446,7 @@ header{
     text-transform: uppercase;
     font-size: 3em;
     letter-spacing: 6px;
+    -webkit-text-stroke: 1px blue;
 }
 .rules p{
     font-family: 'text';
@@ -436,6 +454,10 @@ header{
     margin: 15px 0;
     letter-spacing: 3px;
     text-transform: uppercase;
+    -webkit-text-stroke: 0.75px blue;
+}
+.rules b{
+    -webkit-text-stroke: 0.75px blue;
 }
 .rules-logo{
     float: left;
@@ -458,6 +480,7 @@ header{
     display: inline-block;
     text-shadow: 0 0 5px rgb(0, 255, 234);
     position: relative;
+    -webkit-text-stroke: 0.75px blue;
 }
 .rules-text a::after{
     content:'';
@@ -467,6 +490,7 @@ header{
     display: block;
     margin: auto;
     transition: 0.8s;
+    -webkit-text-stroke: 0.75px rgb(124, 0, 0);
 }
 .rules-text a:hover{
     color: rgb(255, 0, 0);
@@ -474,6 +498,7 @@ header{
     display: inline-block;
     text-shadow: 0 0 5px rgb(255, 0, 0);
     transition: 0.5s;
+    -webkit-text-stroke: 0.75px rgb(124, 0, 0);
 }
 .rules-text a:hover::after{
     width: 100%;
@@ -572,6 +597,7 @@ header{
     text-transform: uppercase;
     font-size: 3em;
     letter-spacing: 6px;
+    -webkit-text-stroke: 0.1px blue;
 }
 .equipment h2{
         font-family: 'Heading';
@@ -579,6 +605,7 @@ header{
         text-transform: uppercase;
         font-size: 30px;
         letter-spacing: 4px;
+        -webkit-text-stroke: 0.5px blue;
 }
 .equipment p{
     font-family: 'text';
@@ -586,6 +613,7 @@ header{
     margin: 15px 0;
     letter-spacing: 3px;
     text-transform: uppercase;
+    -webkit-text-stroke: 0.75px blue;
 }
 .equipment-logo{
     float: left;
@@ -615,6 +643,7 @@ header{
     display: inline-block;
     text-shadow: 0 0 5px rgb(0, 255, 234);
     position: relative;
+    -webkit-text-stroke: 0.75px blue;
 }
 .equipment-text a::after{
     content:'';
@@ -624,6 +653,7 @@ header{
     display: block;
     margin: auto;
     transition: 0.8s;
+    -webkit-text-stroke: 0.75px rgb(124, 0, 0);
 }
 .equipment-text a:hover{
     color: rgb(255, 0, 0);
@@ -631,6 +661,7 @@ header{
     display: inline-block;
     text-shadow: 0 0 5px rgb(255, 0, 0);
     transition: 0.5s;
+    -webkit-text-stroke: 0.75px rgb(124, 0, 0);
 }
 .equipment-text a:hover::after{
     width: 100%;
@@ -709,6 +740,7 @@ header{
     text-transform: uppercase;
     font-size: 3em;
     letter-spacing: 6px;
+    -webkit-text-stroke: 1px blue;
 }
 .disclaimerwarning p{
     font-family: 'text';
@@ -716,6 +748,7 @@ header{
     margin: 15px 0;
     letter-spacing: 3px;
     text-transform: uppercase;
+    -webkit-text-stroke: 0.75px blue;
 }
 .disclaimerwarning-logo{
     float: left;
@@ -738,6 +771,7 @@ header{
     display: inline-block;
     text-shadow: 0 0 5px rgb(0, 255, 234);
     position: relative;
+    -webkit-text-stroke: 0.75px blue;
 }
 .disclaimerwarning-text a::after{
     content:'';
@@ -747,6 +781,7 @@ header{
     display: block;
     margin: auto;
     transition: 0.8s;
+    -webkit-text-stroke: 0.75px rgb(124, 0, 0);
 }
 .disclaimerwarning-text a:hover{
     color: rgb(255, 0, 0);
@@ -754,6 +789,7 @@ header{
     display: inline-block;
     text-shadow: 0 0 5px rgb(255, 0, 0);
     transition: 0.5s;
+    -webkit-text-stroke: 0.75px rgb(124, 0, 0);
 }
 .disclaimerwarning-text a:hover::after{
     width: 100%;
