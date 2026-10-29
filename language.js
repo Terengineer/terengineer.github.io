@@ -63,9 +63,11 @@ const translations = {
         abouttext4:"I'm Highlights Videos, and Shorts, unfortunately in 2018, I started seat wheel chair with got fever sick, I can't walk for move now, but I never give up, so hope you enjoy, please smash like button👍, follow, subscribe, and Shout-Out Terengineer📢!",
         abouttext5:"Real Human Person🧑, Not AI BOT🤖❌",
         abouttext6:"Please make sure I'm opened my Official website, Donate, Merch, Patreon, YT, FB, X (Twitter), Tumblr, IG, Fandom wiki, Discord, Tiktok, Twitch, SoundCloud, Newgrounds, and my 2nd channel (No longer upload videos) is official correct, the other is fake, thank you!",
-        official:"On June, 16th, 2024, The Rules has been officially launched!",
-        visit:"Visit Links:",
-        dc:"Discord (Must join Terengineer Server can saw it)",
+        official:"On June, 16th, 2024, The Rules, and on October, 24th, 2026, The Nickname has been officially launched!",
+        rulesvisit:"Visit Links:",
+        nicknamevisit:"Nickname Visit Links:",
+        dc1:"Discord (Must join Terengineer Server can saw it)",
+        dc2:"Discord (Must join Terengineer Server can saw it)",
     },
     aboutzhcn:{
         line1:"主選單",
@@ -81,9 +83,11 @@ const translations = {
         abouttext4:"我會精華影片、和短片，不幸的是在2018年，我生病就開始坐輪椅，我現在沒辦法走路，但是我不能放棄，所以希望您們喜歡，請按讚👍、跟隨、訂閱和喊出阿祐先生📢!",
         abouttext5:"真人🧑，不是AI機器人🤖❌",
         abouttext6:"請確認我開啟的是官方網站、斗內、商品、Patreon、YT、FB、X（Twitter）、Tumblr、IG、Fandom wiki、Discord、Tiktok、Twitch、SoundCloud、Newgrounds和我的副頻道（不再上傳新影片）是正式正確的，其它是假的，感謝您!",
-        official:"2024年6月16日，本規則已正式啟動!",
-        visit:"訪問連結:",
-        dc:"Discord（必須要加入阿祐先生伺服器才可以看見）",
+        official:"2024年6月16日的規則和2026年10月24日的暱稱已正式啟動!",
+        rulesvisit:"規則訪問連結:",
+        nicknamevisit:"暱稱訪問連結:",
+        dc1:"Discord（必須要加入阿祐先生伺服器才可以看見）",
+        dc2:"Discord（必須要加入阿祐先生伺服器才可以看見）",
     },
     /*Rules*/
     rulesen:{
@@ -108,9 +112,11 @@ const translations = {
         rulesp10:"10. In-game False vote kick!~",
         rulesb3:"⚠️If you do it a violated rule(s), 1st Remove (Warn), 2nd Report (Mute), 3rd Permanent Block (Ban), and Report by Terengineer (Include joined Terengineer Discord)!~",
         rulesb4:"🤝Sponsored for business inquiries e-mail (Only Legitimate for 3C product, and Game, Strictly prohibited illegal, and others!~):",
-        official:"On June, 16th, 2024, The Rules has been officially launched!",
-        visit:"Visit Links:",
-        dc:"Discord (Must join Terengineer Server can saw it)",
+        official:"On June, 16th, 2024, The Rules, and on October, 24th, 2026, The Nickname has been officially launched!",
+        rulesvisit:"Visit Links:",
+        nicknamevisit:"Nickname Visit Links:",
+        dc1:"Discord (Must join Terengineer Server can saw it)",
+        dc2:"Discord (Must join Terengineer Server can saw it)",
     },
     ruleszhcn:{
         line1:"主選單",
@@ -134,9 +140,11 @@ const translations = {
         rulesp10:"10. 遊戲內假票踢出！~",
         rulesb3:"⚠️如果您違反規則，第一次移除（警告），第二次檢舉（靜音），第三次永久封鎖和檢舉由阿祐先生（包含已加入的阿祐先生DC）！~",
         rulesb4:"🤝贊助業務諮詢電子郵件（只有合法的3C產品和遊戲，嚴禁非法和其它！~）:",
-        official:"2024年6月16日，本規則已正式啟動！",
-        visit:"訪問連結:",
-        dc:"Discord（必須要加入阿祐先生伺服器才可以看見）",
+        official:"2024年6月16日的規則和2026年10月24日的暱稱已正式啟動!",
+        rulesvisit:"規則訪問連結:",
+        nicknamevisit:"暱稱訪問連結:",
+        dc1:"Discord（必須要加入阿祐先生伺服器才可以看見）",
+        dc2:"Discord（必須要加入阿祐先生伺服器才可以看見）",
     },
     /*Equipment*/
     equen:{
@@ -259,8 +267,10 @@ let line5 = document.getElementById("line5");
 let line6 = document.getElementById("line6");
 /*Official Launched*/
 let official = document.getElementById("official");
-let visit = document.getElementById("visit");
-let dc = document.getElementById("dc");
+let rulesvisit = document.getElementById("rulesvisit");
+let nicknamvisit = document.getElementById("nicknamevisit");
+let dc1 = document.getElementById("dc1");
+let dc2 = document.getElementById("dc2");
 /*Index*/
 let welcome = document.getElementById("welcome");
 let shoutout = document.getElementById("shoutout");
@@ -412,8 +422,10 @@ const setLanugage = (language) => {
         abouttext5.innerText = translations.aboutzhcn.abouttext5;
         abouttext6.innerText = translations.aboutzhcn.abouttext6;
         official.innerText = translations.aboutzhcn.official;
-        visit.innerText = translations.aboutzhcn.visit;
-        dc.innerText = translations.aboutzhcn.dc;
+        rulesvisit.innerText = translations.aboutzhcn.rulesvisit;
+        nicknamevisit.innerText = translations.aboutzhcn.nicknamevisit;
+        dc1.innerText = translations.aboutzhcn.dc1;
+        dc2.innerText = translations.aboutzhcn.dc2;
     }
     else if (language == "abouten"){
         line1.innerText = translations.abouten.line1;
@@ -430,8 +442,10 @@ const setLanugage = (language) => {
         abouttext5.innerText = translations.abouten.abouttext5;
         abouttext6.innerText = translations.abouten.abouttext6;
         official.innerText = translations.abouten.official;
-        visit.innerText = translations.abouten.visit;
-        dc.innerText = translations.abouten.dc;
+        rulesvisit.innerText = translations.abouten.rulesvisit;
+        nicknamevisit.innerText = translations.abouten.nicknamevisit;
+        dc1.innerText = translations.abouten.dc1;
+        dc2.innerText = translations.abouten.dc2;
     };
     /*Rules*/
     if (language == "ruleszhcn"){
@@ -457,8 +471,10 @@ const setLanugage = (language) => {
         rulesb3.innerText = translations.ruleszhcn.rulesb3;
         rulesb4.innerText = translations.ruleszhcn.rulesb4;
         official.innerText = translations.ruleszhcn.official;
-        visit.innerText = translations.ruleszhcn.visit;
-        dc.innerText = translations.ruleszhcn.dc;
+        rulesvisit.innerText = translations.ruleszhcn.rulesvisit;
+        nicknamevisit.innerText = translations.ruleszhcn.nicknamevisit;
+        dc1.innerText = translations.ruleszhcn.dc1;
+        dc2.innerText = translations.ruleszhcn.dc2;
     }
     else if (language == "rulesen"){
         line1.innerText = translations.rulesen.line1;
@@ -483,8 +499,10 @@ const setLanugage = (language) => {
         rulesb3.innerText = translations.rulesen.rulesb3;
         rulesb4.innerText = translations.rulesen.rulesb4;
         official.innerText = translations.rulesen.official;
-        visit.innerText = translations.rulesen.visit;
-        dc.innerText = translations.rulesen.dc;
+        rulesvisit.innerText = translations.rulesen.rulesvisit;
+        nicknamevisit.innerText = translations.rulesen.nicknamevisit;
+        dc1.innerText = translations.rulesen.dc1;
+        dc2.innerText = translations.rulesen.dc2;
     };
     /*Equipment*/
     if (language == "equzhcn"){
