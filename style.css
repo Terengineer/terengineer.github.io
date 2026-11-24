@@ -16,6 +16,10 @@
 body{
     min-height: 100vh;
     background: linear-gradient(110deg, hsl(219, 48%, 32%), hsl(219, 48%, 32%));
+    background-image: url('images/Background 2560 x 1440.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
 }
 img{
     width: 250px;
@@ -23,11 +27,21 @@ img{
 img img{
     width: 175px;
 }
-body{
-    background-image: url('images/Background 2560 x 1440.jpg');
-    height: 100vh;
-    background-size: cover;
-    background-position: center center;
+@media screen and (min-width: 600px)
+{
+    /* Add styling here you wish to add for screens with a width of 600px and wider */
+
+    figure {
+      display: flex;
+    }
+
+    figcaption {
+      width: 100%;
+    }
+
+    .equipment {
+      flex-direction: row-reverse;
+    }
 }
 /*Index*/
 .big-container{
@@ -701,22 +715,6 @@ header{
     display: inline-block;
     padding: 8px 12px;
     position: relative;
-}
-@media screen and (min-width: 600px)
-{
-    /* Add styling here you wish to add for screens with a width of 600px and wider */
-
-    figure {
-      display: flex;
-    }
-
-    figcaption {
-      width: 100%;
-    }
-
-    .equipment {
-      flex-direction: row-reverse;
-    }
 }
 /*Disclaimer Warning*/
 .disclaimerwarning-big-container{

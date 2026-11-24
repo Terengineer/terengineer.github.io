@@ -14,15 +14,14 @@ const translations = {
         link3:"Join Terengineer Member Fan!~",
         link4:"Subscribe!~",
         link5:"Follow my X (Twitter)!~",
-        link6:"Follow my Tumblr!~",
-        link7:"Follow my Facebook!~",
-        link8:"Follow my Instagram!~",
-        link9:"Join my Discord (THIS IS 100% REAL, NOT FAKED, LIED, JOKING, AND KIDDING)!~",
-        link10:"Follow my Twitch!~",
-        link11:"Follow my Tiktok!~",
-        link12:"Look at my wiki!~",
-        link13:"Listen my Soundcloud!~",
-        link14:"Follow My Newgrounds!~",
+        link6:"Follow my Facebook!~",
+        link7:"Follow my Instagram!~",
+        link8:"Join my Discord (THIS IS 100% REAL, NOT FAKED, LIED, JOKING, AND KIDDING)!~",
+        link9:"Follow my Twitch!~",
+        link10:"Follow my Tiktok!~",
+        link11:"Look at my wiki!~",
+        link12:"Follow my SoundCloud (Listen on the Track)!~",
+        link13:"Follow My Newgrounds!~",
     },
     zhcn:{
         line1:"主選單",
@@ -37,16 +36,15 @@ const translations = {
         link2:"商品（英文版）!~",
         link3:"加入阿祐先生的會員（英文版）!~",
         link4:"訂閱!~",
-        link5:"跟隨我的X（Twitter）（英文版）!~",
-        link6:"跟隨我的Tumblr（英文版）!~",
-        link7:"跟隨我的FB（英文版）!~",
-        link8:"跟隨我的IG（英文版）!~",
-        link9:"加入我的DC（這是真實的100%，不是假的、說謊、和開玩笑）!~",
-        link10:"跟隨我的Twitch（英文版）!~",
-        link11:"跟隨我的Tiktok（英文版）!~",
-        link12:"查看我的wiki（英文版）!~",
-        link13:"聆聽我的Soundcloud（英文版）!~",
-        link14:"跟隨我的Newgrounds（英文版）!~",
+        link5:"跟隨我的 X（Twitter）（英文版）!~",
+        link6:"跟隨我的 FB（英文版）!~",
+        link7:"跟隨我的 IG（英文版）!~",
+        link8:"加入我的 DC（這是真實的100%，不是假的、說謊、和開玩笑）!~",
+        link9:"跟隨我的 Twitch（英文版）!~",
+        link10:"跟隨我的 Tiktok（英文版）!~",
+        link11:"查看我的 Wiki（英文版）!~",
+        link12:"跟隨我的 SoundCloud（聆聽專輯）（英文版）!~",
+        link13:"跟隨我的 Newgrounds（英文版）!~",
     },
     /*About*/
     abouten:{
@@ -380,7 +378,6 @@ const setLanugage = (language) => {
         link11.innerText = translations.zhcn.link11;
         link12.innerText = translations.zhcn.link12;
         link13.innerText = translations.zhcn.link13;
-        link14.innerText = translations.zhcn.link14;
     }
     else if (language == "en"){
         line1.innerText = translations.en.line1;
@@ -404,7 +401,6 @@ const setLanugage = (language) => {
         link11.innerText = translations.en.link11;
         link12.innerText = translations.en.link12;
         link13.innerText = translations.en.link13;
-        link14.innerText = translations.en.link14;
     };
     /*About*/
     if (language == "aboutzhcn"){
